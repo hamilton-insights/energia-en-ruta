@@ -1,10 +1,24 @@
 [
  {
   "fecha": "2026-11-02",
+  "medio": "Cadena SER",
+  "titular": "Los carburantes bajan por primera vez en ocho meses: la sin plomo, por debajo del euro y medio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN1lVM0tlWUE2SGY1SUI1WDVwWURidkU5U3JRTmhEN1ZOV3NzdWVMMW9LaVZsM2RCZ1lTVU0zN3JYY25lRV9vc0dyRllaWkJDQ21mM0U2bE0ySUdsLWdWbnN3blhaRDU2eE5vMmdXQmk0b3ZoNUhXMTF5cmNWam9Fekk4eVVIUU1UVW4xRFV4anpmcUc4anpqNEZ1ZGQ1b1dGdDl2a0s2ZFpDUkNLaFVjZmcwbTMzejRCai04NUFkVjZQQ1RIX0NrZXlHWjI5WjlXTEhJNTFqZVdmQ3MyRmxTSGxod1dFV3hSeWFxV1Bn0gGCAkFVX3lxTFBoVE1WdjBWdjA0M0stLUN5U1QxWjFjMTVyZnJFdEYzTnV4dUxDYVNpdWZ2UU5CcFdVTzBuRE1PbTl1SFlCSXFLdlBLTTBhdGd3TnE2NXR1Tk9lbk9UYVF2UHliU2ZPTzJPQndOWUR4TzRVSVpXY3phajd4c1piZXNOTEZRYTFTOVBVUTFqWE4xM1VmcHBCTDNVREY0Z0NZX1pLd19HdFRELThwcHVEUVZSNlpXcG9qTHFxa2lObDJ5eDN2d1JudnBqdUJmMmdTbk91Um45VW9ieWFOVjBvY1YxaWdVMDMxdVJoT2VuSl9leS1yOFQwemJPNWpSMEd3Nnpydw?oc=5"
+ },
+ {
+  "fecha": "2026-11-02",
   "medio": "Las Provincias",
   "titular": "Las gasolineras más baratas hoy en Valencia, Alicante y Castellón: dónde repostar gasolina y diésel al menor precio",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1dhbkhxbHBTTWU0ZENiaERYWGVGYjVvcFlpUmotY0I3VHNRX0YwVWQ0V1VhVHhMd21CTWctNHBFX21tcWV3V3YtamNGQkF1Z0FoVkNudHpjQ28xLVpUUDJOOGptYldkd2tYTEdXSmZJYTdNOVh3MV9zMTdiVTN1b3VWcUdMUTBrVzVaQmNvNkRySS0xbmIydVVVRjViZXNZaWFvU19ndlFmd9IBrwFBVV95cUxQTHBaQmpEbG0xaTFMejlhWXVzTVFsRU0wTUFaakhtSWwyV3A3eTFzU09zYWF0a2g4TEZFUV92X2hXX000Zld6bUJXT3F1V3BoTG0tTUgtNlZCQmFYR3ZyeF9MTmwxZDJhR2lTd3JobFlZUEY0V245UjlNcUx5UjFqUFFpZmhITWlYY24wcWpQS0JkQUowdnJfVW1HU3M4MzJybG44UnNIUkpMYXJlWmU0?oc=5"
+ },
+ {
+  "fecha": "2026-11-02",
+  "medio": "El Mundo",
+  "titular": "El precio de la gasolina y el gasoil en Madrid hoy, lunes 2 de noviembre de 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15VVB5VER1aHhEcVB2bEVIcFg2Ymo5V3ZpcDlONGk3b19LWkZSMHY3dnJpUmZwNHY3bXJzSE0zRVBzMEFHajItQWtyMEttSDA3MkpIdmdLWUw0eEE4QlZKNWRQT3JBSF9zblA0dWgzN2Z5bm9iSEIw0gF3QVVfeXFMTXlVUHlURHVoeERxUHZsRUhwWDZiajlXdmlwOU40aTdvX0taRlIwdjd2cmlSZnA0djdtcnNITTNFUHMwQUdqMi1Ba3IwS21IMDcySkh2Z0tZTDR4QThCVko1ZFBPckFIX3NuUDR1aDM3Znlub2JIQjA?oc=5"
  },
  {
   "fecha": "2026-11-02",
@@ -16,29 +30,15 @@
  {
   "fecha": "2026-11-02",
   "medio": "Diario de Mallorca",
-  "titular": "Vídeo | Palma y el futuro de las gasolineras urbanas: “Son cómodas, sin colas y están bien de precio\"",
+  "titular": "Vídeo | Palma y el futuro de las gasolineras urbanas: “Son cómodas, sin colas y están bien de precio",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnotSVNMdnpEQTZKcDBZM2Z6THFlUjhTZGlBWDhwc3pCVzBKaWRYOGhrYW15SEZNcGoydXlmVmcwcldHOVRVZWhjaDdDdWc5VENLS3FJUkJsNTgtYXNsMk4xQThIVHJYYlVNMlc0MWZ4N2Ywbm5qLTZGb1dDNlpSSXZQcU1ZUUc4bkNrcjktVll0QzR3ei0xNnpDMWVqa3FHNjVmS04xNVJ3amRXN3hqdVlrSDB3V240aGZJ0gHAAUFVX3lxTFAzMTJydGV2SFA2aEVHYnhIenRtblBkRXdaczl2ZlpheG5lMGtQdDg2M2dUcjh1UEJXUk4yeHctN0JYQWN4MHYwSE53TExjU2RoeEN0dHVfU1pPN0RLWjNSbV9EcWtiQ2w1MGZmRUJ2NEJCTzlDZGFUMlJGVWYwSzN1NWd3aVllLXZyX3hRZWNfemQ2VlFhZ091WW5GQVQ5QU80c2NuV1pJcElTLUM0U1VSM0Joc3J4R25JWVQ3M3NUVQ?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnotSVNMdnpEQTZKcDBZM2Z6THFlUjhTZGlBWDhwc3pCVzBKaWRYOGhrYW15SEZNcGoydXlmVmcwcldHOVRVZWhjaDdDdWc5VENLS3FJUkJsNTgtYXNsMk4xQThIVHJYYlVNMlc0MWZ4N2Ywbm5qLTZGb1dDNlpSSXZQcU1ZUUc4bkNrcjktVll0QzR3ei0xNnpDMWVqa3FHNjVmS04xNVJ3amRXN3hqdVlrSDB3V240aGZJ?oc=5"
  },
  {
   "fecha": "2026-11-02",
-  "medio": "alertachiapas.com",
-  "titular": "Tapachula: 3 gasolineras venden la regular a menos de 23 pesos",
+  "medio": "Híbridos y Eléctricos",
+  "titular": "LA CNMC alerta del incumplimiento de normativa por parte de 1.700 estaciones de servicio: las gasolineras se enfrentan a sanciones",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXdhUFBLRVNHRUQ5X1VBdVpmOHdXWEhkTWtvdW1wWHZraHRYRkY0LVlPMDM1UDd2d0k3cDJkSUFLVnBoRTZEazdjQjRGeUxmNjctN1NmVzYzUm9wVExhQkFmN3RLdEpTRkFTRncxMFBjQjJWaUFLU1VVdTQ2a0h3MV9ZRHJSRVdu?oc=5"
- },
- {
-  "fecha": "2026-11-02",
-  "medio": "alertachiapas.com",
-  "titular": "Gasolina en Palenque: 3 estaciones venden la regular a 22.89 pesos",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0NsNmVrcldJMnItQ0QwVTZkRldhbjF1QXkxM09GQXNFam9feXRaVVlJeVYyYkFJekx2NG5uM0lFRVVad1FZSGJZdlZrb1FaQ2JjLUFmLTZCQWZGMVVkMW9fMTI4Y3ZzU0FuMVFhVV9uMjRjMUIxcHhhZUNMTzduT0VfSHg?oc=5"
- },
- {
-  "fecha": "2026-11-02",
-  "medio": "El Periódico de Ceuta",
-  "titular": "Precio de la gasolina en Ceuta hoy, lunes 2 de noviembre",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1Vib3lGWVhVYzZzZ1ZmRzY2YlBsSHVBeEN0eEd3YzZDVnpCNlBLZHN1V0ZWQ0FyR1JVQWdKZElEdThfM21nTG9YLWJWaFlYdXdfajBhMjRVbG5YTlNGbTIzVlJ0NnZIRjFmQ2JPb3NFak1OMHZHaUU4SDFScjVNU1RzT3VqSVNKejBv?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONUdrUzBNLV85UUIwbk9uaEhjbjUtZ3g3bzQ3WjhKTW81clpTUTc4SGdjamtpd3pXR2EyYjNYNTd3eE5JNk1BT0xTLTRwLUwwWUpkWUJVSGdvSHRUYTdPX3BRV2RwWU5yX0lpSHRQbnZIVnBHMnl6OUtHdTZFMTRSMTgyNVhpTVhMQUFwVkRDQm1tQ2l4V3JQME9ZU1JGQ0dCYVVBVFBENXpfMXNWbjhhdFRmQnZKVUloZ1ZCaVZLNG9TNlVCbk5PdEF5LVYyRXhmbFMtb3l2ZEc3THlRMjFYRF92NGxXOUlwUVNDbkd4MlJiNHB2Sk1F?oc=5"
  }
 ]
