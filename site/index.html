@@ -10,9 +10,14 @@
 </head>
 <body>
 <div id="dash-root">
+<a class="er-logo" href="./" aria-label="Hamilton Global Intelligence">
+  <picture>
+    <source srcset="logo-hamilton-blanco.png" media="(prefers-color-scheme: dark)">
+    <img src="logo-hamilton-negro.png" alt="Hamilton Global Intelligence" width="661" height="182">
+  </picture>
+</a>
 <div class="ob er-top">
   <header class="er-hero" id="er-hero">
-    <div class="eyebrow">Hamilton Global Intelligence · Observatorio</div>
     <h1>Energía en Ruta</h1>
     <p class="lede">La foto, actualizada cada día, de cómo se llena el depósito en España: lo que cuesta repostar en cada gasolinera y dónde se puede cargar un coche eléctrico. Pulsa un carburante o un tipo de recarga para entrar.</p>
   </header>
@@ -44,7 +49,6 @@
 
 <div class="ob">
   <header class="hd" id="c-inicio">
-    <div class="eyebrow">Hamilton Global Intelligence · Observatorio</div>
     <h1>Observatorio de carburantes</h1>
     <p class="take" id="c-takeaway">En España, el diésel cuesta de media
       <b data-source="c_kpis" data-field="hoy" data-where="combustible=diesel" data-fmt="p" class="dash-skeleton">—</b> €/l
@@ -230,10 +234,6 @@
     <div class="news dash-skeleton" id="c-newsBox" data-source="c_noticias"></div>
   </section>
 
-  <section class="card hook" id="c-hamilton">
-    <p><span class="brand">El dato dice qué pasa. Falta saber por qué.</span><br>
-    ¿Cuántos conductores cambian de gasolinera por cinco céntimos? ¿Por qué la mayoría sigue repostando en las grandes marcas aunque las low cost estén a la vuelta de la esquina? ¿Qué pesa más, el precio, la cercanía, los servicios o la tarjeta de fidelización? Hamilton cruza los datos públicos con la voz del consumidor para responderlo.</p>
-  </section>
 
   <p class="foot">Precios por gasolinera: Geoportal de Gasolineras del Ministerio para la Transición Ecológica. Series históricas: Reposta Hoy (CC BY 4.0) hasta el 22 de octubre de 2026 y, desde entonces, media diaria propia con el mismo método. Límites: IGN vía es-atlas. Noticias: titulares de Google News con enlace a cada medio. Canarias, en recuadro.</p>
 </div>
@@ -245,7 +245,6 @@
 
 <div class="ob">
   <header class="hd" id="e-inicio">
-    <div class="eyebrow">Hamilton Global Intelligence · Observatorio</div>
     <h1>Observatorio de la recarga eléctrica</h1>
     <p class="take" id="e-takeaway">España tiene
       <b data-source="e_kpis" data-field="puntos" data-where="tipo=todas" data-fmt="n" class="dash-skeleton">—</b> puntos de recarga en
@@ -430,10 +429,6 @@
     <div class="news dash-skeleton" id="e-newsBox" data-source="e_noticias"></div>
   </section>
 
-  <section class="card hook" id="e-hamilton">
-    <p><span class="brand">El mapa dice dónde se puede cargar. Falta saber por qué no se compra.</span><br>
-    ¿Pesa más la ansiedad por la autonomía o el precio del coche? ¿Quién puede cargar en casa y quién depende de la red pública? ¿Qué operador genera confianza y cuál se evita tras una mala experiencia con un cargador fuera de servicio? Hamilton cruza los datos públicos con la voz del conductor para responderlo.</p>
-  </section>
 
   <p class="foot">Estaciones y puntos: registro oficial de puntos de recarga del Ministerio para la Transición Ecológica, publicado por la DGT en el Punto de Acceso Nacional (DATEX II, CC BY), descargado cada día. Cada estación se clasifica por su potencia máxima y todos sus puntos cuentan en ese tipo; el municipio se asigna por coordenadas. Las patronales ANFAC y AEDIVE publican totales mayores con metodologías propias (ver noticias). Población: INE, 1 de enero de 2025. Límites: IGN vía es-atlas. Canarias, en recuadro.</p>
 </div>
