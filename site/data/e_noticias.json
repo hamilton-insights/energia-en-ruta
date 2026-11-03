@@ -1,5 +1,12 @@
 [
  {
+  "fecha": "2026-11-03",
+  "medio": "Movilidad Eléctrica",
+  "titular": "El coche eléctrico se dispara en España: récord de ventas en octubre",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02T3FlZlQ3UFZSX3NvbV9CUDdjVE00YXJUMzAtcXlRSTQ1TExodS1WNXBfaGlTWko0b2FUZ2dwOWhZSW4yMU10RElTQnlxZFBmZXp1c1ZBX1lxc1V5dFkzcDBaYkdpdVJUbVl2Y0dQSkYzYXpqZVBpenl0aW9lbG8?oc=5"
+ },
+ {
   "fecha": "2026-11-02",
   "medio": "El Periódico Extremadura",
   "titular": "Solo uno de cada siete puntos de recarga de Extremadura permite una carga rápida",
@@ -22,13 +29,6 @@
  },
  {
   "fecha": "2026-11-02",
-  "medio": "El Debate",
-  "titular": "Marruecos se adelanta a España y comienza a fabricar baterías para coches eléctricos mientras nuestras plantas ni han empezado",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUUNZSEwtNjhjcWh3MVAxc3dwUW5uUTVXbWYyNkpBX0FqUldqMnBLRFBOMzBRV1dFaGw0eGNGMEtqMmRiLU5pNzFnT1pfcmZHZ0NqbWhrb21YNlZFYUZJeUtsdkYwcHpwblJiYkd2Q0MtU0ljUXl6MDhEeXE3WW0tSlVVYWVXWEtsWHFDczQ4YkJUbnU5MXU1ZldGcm5OTlF2ZWNBb3liX3hxT0VJMGhHdWlKd0ExZ2xVeVNrX0k2YXlYaWFwZ0FvMmhFNmNEUDNUUFpvYkdGQjNjUDVIdURwT3VxMzZZdUM0eUZCaFpoZ3N0TW_SAfgBQVVfeXFMTUNGT1hUQUNlSmh4aE9XWEtQbEkzTDlOUE5IOGZlbTRpQ2daaVJXRFJ0Nk1wckxfZ01Xd3Ayd3I1T09VQzhQZ3phdWlKOEg2OTE2RGRGdFhhTWFYc0RsYkp2SkM5aHdndGNGRUdqdTBlOVB4T2FpanRneldpVDJFNFEwTmJBcmdfNEdrZDdjUU9oNFI3UnQ4d0NOTy13WHhLQmI1U0ZPU2U5UGxUcE1mNUJ3ZlFxSGVENU9PUzFNaFFRMkZUZ3NIWnBvVm1NRE42MjcyREtSVEJudnhONjgxR3AxX3psTlFERHRLZUl1N2NhQVd3dUJpeV8?oc=5"
- },
- {
-  "fecha": "2026-11-02",
   "medio": "Híbridos y Eléctricos",
   "titular": "Aunque Toyota vende el doble de coches eléctricos a nivel mundial, hay un mercado clave en el que no funciona",
   "resumen": "",
@@ -36,9 +36,9 @@
  },
  {
   "fecha": "2026-11-02",
-  "medio": "3DJuegos",
-  "titular": "Una familia de Almería recorre 6.071 kilómetros en coche eléctrico y demuestra que viajar sin gasolina es posible",
+  "medio": "El Debate",
+  "titular": "Marruecos se adelanta a España y comienza a fabricar baterías para coches eléctricos mientras nuestras plantas ni han empezado",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWjRweHMyYnFKcFY3VEYyTmt5V1JYcTUwZkM0UUcxeDlYeWxBYnhBd3FzQjllZWhJMWdjcjlfYThERi0xZTZ0N3pOSmlmbnB6MnB2NVpsRVM3NlhYMjRpczhRRVk2R0pNaklNUVNGMTcwQkRtb3Z4WTlwQVNRRlFhaW9YTkxmN05wanN5MUUtejh0QXo0dGIzY2N6NTZZN1dvYllrLVRTY0NQY0ZxTlU2RkhTSlBMY0xIUFV6aVlGX2l2dWNlQWpUNHNCOVZMMjVvYmZXcTl30gHbAUFVX3lxTFBFYWJJN2ozT3pINlB2Q1ZSMjBJV0NBVTNYU0pHbGVZbjNKX2VvblRxeVFWR2M4TmM0LXFleURHQXUxU2pQeVFjMnVNWnQ2NlhuaDVnZmxXbnk3ZGpEV3VGaXBIY3U5YlBFUU1EUy1qQXMzS241X1g2a1BaSzFld0VFbkNTNndJVXRyYW10bGl6NFNVajBnWEZoRWN0d1Y0M1B5eFpzRWNWSV9TcFdQVUE5VUtKeWFiYUtiOXR0QUlOT1JtbG5LQk8zN25CcjBfZ0tTTHpaTUpGeFd1bw?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUUNZSEwtNjhjcWh3MVAxc3dwUW5uUTVXbWYyNkpBX0FqUldqMnBLRFBOMzBRV1dFaGw0eGNGMEtqMmRiLU5pNzFnT1pfcmZHZ0NqbWhrb21YNlZFYUZJeUtsdkYwcHpwblJiYkd2Q0MtU0ljUXl6MDhEeXE3WW0tSlVVYWVXWEtsWHFDczQ4YkJUbnU5MXU1ZldGcm5OTlF2ZWNBb3liX3hxT0VJMGhHdWlKd0ExZ2xVeVNrX0k2YXlYaWFwZ0FvMmhFNmNEUDNUUFpvYkdGQjNjUDVIdURwT3VxMzZZdUM0eUZCaFpoZ3N0TW_SAfgBQVVfeXFMTUNGT1hUQUNlSmh4aE9XWEtQbEkzTDlOUE5IOGZlbTRpQ2daaVJXRFJ0Nk1wckxfZ01Xd3Ayd3I1T09VQzhQZ3phdWlKOEg2OTE2RGRGdFhhTWFYc0RsYkp2SkM5aHdndGNGRUdqdTBlOVB4T2FpanRneldpVDJFNFEwTmJBcmdfNEdrZDdjUU9oNFI3UnQ4d0NOTy13WHhLQmI1U0ZPU2U5UGxUcE1mNUJ3ZlFxSGVENU9PUzFNaFFRMkZUZ3NIWnBvVm1NRE42MjcyREtSVEJudnhONjgxR3AxX3psTlFERHRLZUl1N2NhQVd3dUJpeV8?oc=5"
  }
 ]
