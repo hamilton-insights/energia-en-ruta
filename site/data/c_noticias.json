@@ -1,10 +1,10 @@
 [
  {
   "fecha": "2026-11-06",
-  "medio": "Ultima Hora",
-  "titular": "Precio de la gasolina y el diésel hoy: consulta aquí las gasolineras más baratas de Mallorca",
+  "medio": "El Debate",
+  "titular": "El petróleo cae con fuerza: ¿por qué no baja el precio de la gasolina y el gasóleo?",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFZDMzAyS0NRTGVPM2ktRDUxX2ktd3M1a0liYVQ1dk13a1ZUTk9qU0Y0Z3NlaFZGZzFIZnJLTWhsZ0tFX0VFZWNBS2NhRTlESVlrZU02elRVbU0xaW1aUnFqMks4S0gyM3p5NWxVUUNDRDhaeDQtS0ZrMmZKQzRyNE1mUVdsOWJqSFVMYXdYV09ZdmRBQ1ZsQ2JseUlPOW94R2VlN0hYTlRudUVxYmlkTTZPNjNvSEhsazNtZTU5cnk4a3FjN0U0R3VHWjZEbUphVmk5ejdnTkFJZw?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0pZQk1NclI4VnNtTmVzb081czBzblM5eU82Yjlzb1d2TU42VkF4b0FFRkVWenZJbmZIeFlaWDN1ZFZnVU4yZjN0VW5PQnpZX3U4YkZOMGhCMVo0bjFfMGJaNEdVN0ZxdTZSczk0MV9wenJBVm84ZlpYWUJoQjBDZzRPc2lMdkZSaG83ZjNmdHlrVUpZRjJvb0s1STlQTXc0dFBacHZn0gGrAUFVX3lxTE9ybS02MW84WnBGemh3WFN2OXcyTncybWlMRkhGVldrYUduWDQ0bXpoMWlIcGdwSktacWFzMm5EMU1LTHBlMnlmNDBRa0cyR0cyV0x6Y3Z3SEVsTEZpLWZ0YnIybkprajhRT2t2LTE1UHUtWGdFUXdlX0M2ZzByRzF5cVk5RXMxTjVha19oLXdocXlxSWgzWG9pR19xV1dadnhZOGJMeEFCdXVzMA?oc=5"
  },
  {
   "fecha": "2026-11-06",
@@ -12,13 +12,6 @@
   "titular": "Nuevos descensos en el precio de la gasolina y mínimo incremento en el del gasóleo: análisis semanal carburantes 06 noviembre 2026",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNTRQZzZoVWFfaTQ5Rms2cktUcG5tdWNNUHlMTHhaV3pIUG9EYXIzMTJwWWVGamZTaTc0eFFQU1pDWXA4VWI3TVVpbGV2ODIzR2dxRTllNDZSU2xNVUE1Sl8zRUhKVmFxMUxOMjFHaXZOSjhPczBDM21iZEZrSjlSQzhDMlZGVllaazJEV0ZGS2Z3RmVGeklYc3dZUzBoVFAxM0ZnRGljM182b3c4RWxKUkF4cmpiUFR0T05hV2RlVENRaVhmSVpXU0xPRXdqNEdEZzF0RnJGZFFXZGNXTHNqbXFrUWdna2JqUlhBdlp3UjNWVTBlamx3NzAtZw?oc=5"
- },
- {
-  "fecha": "2026-11-06",
-  "medio": "El Debate",
-  "titular": "El petróleo cae con fuerza: ¿por qué no baja el precio de la gasolina y el gasóleo?",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0pZQk1NclI4VnNtTmVzb081czBzblM5eU82Yjlzb1d2TU42VkF4b0FFRkVWenZJbmZIeFlaWDN1ZFZnVU4yZjN0VW5PQnpZX3U4YkZOMGhCMVo0bjFfMGJaNEdVN0ZxdTZSczk0MV9wenJBVm84ZlpYWUJoQjBDZzRPc2lMdkZSaG83ZjNmdHlrVUpZRjJvb0s1STlQTXc0dFBacHZn0gGrAUFVX3lxTE9ybS02MW84WnBGemh3WFN2OXcyTncybWlMRkhGVldrYUduWDQ0bXpoMWlIcGdwSktacWFzMm5EMU1LTHBlMnlmNDBRa0cyR0cyV0x6Y3Z3SEVsTEZpLWZ0YnIybkprajhRT2t2LTE1UHUtWGdFUXdlX0M2ZzByRzF5cVk5RXMxTjVha19oLXdocXlxSWgzWG9pR19xV1dadnhZOGJMeEFCdXVzMA?oc=5"
  },
  {
   "fecha": "2026-11-06",
@@ -40,5 +33,12 @@
   "titular": "La OCU denuncia el \"efecto cohete y efecto pluma\" en el precio de la gasolina y el diésel debido a que algunos \"han remoloneado a la hora de aplicarlo\"",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeWxxYXRITEt5UmZDeWdZSHVWdmtfTGJ1UFRlYTFfMDRmZXV0NkVYbmVsT05ITnZvSUpJby1QeVBvcXpzZkFDdWk2bFdUM1k0TUlkSURnSUlIa0JJX29sR1dHbHZqOHF0Q09VWF9jaERQVjlGbHBsUnZTbTVja05SeF9Sd3owc2hyV09TU1FVR0hlWjNnSGlsQTJDTzZ1VFNGb3dxdVQ3eEJjSW1Nb1gtMjZYY2hVMXU0WGs4RE5NdTczdGlxUDh3U2hpdkdsYm5mWndpRGdmTjlwTWdNdmxBYW5OSm5UV3ZPYnVaVXdB?oc=5"
+ },
+ {
+  "fecha": "2026-11-06",
+  "medio": "La Vanguardia",
+  "titular": "Las grandes cadenas de gasolineras absorben mejor las subidas del petróleo que las 'low cost', según un estudio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdFNNWU1iUmYxaTBoMVZWNlRudnNXSWdlRkZYb1pFRk5HSTNPTkRVdVBuSDNSU3VHRVRTQUtMdUs2azNGeDZ2U05KdTBBYjY4WXRPdjRSUVJuWjg1bzY5N2Z1Vi1tNU1QM3FSUlVLZy1FWVpqS3dTcWZNMXlGOGZJRDNzMWdFd2hscWVhTExHTDJHYkRXa1oyLWZGWnFObGstLUNheDVsTVo2T0piTXhQSk5zU0l1UXJTT2ZTWFN3R19CTlVCZHJJTnhHaUZFOGpVQVpPcHF0Zjc1cktUb3JoY2Utbjd2SUXSAewBQVVfeXFMT3RRODlja0hoenp0Q3dtaFJxQXdrMElRTjRZeTl3OHQtU253QzVQMUFWR0pfUnZ3aVQweTBXaHlxMmxxU1Q2c0hrbUhXVFZSaGwxRE5QQXpSdWdSaVpLLVRsTUlZTVlKOGhEOHVtMUY3TnN0SVNIcXdxSVRQZ3NYWEhaU3JQMENYT2gteE5oaF9jcWJPWV9hUm9icWtvMDVkOUhfd2NRUEEyV2RkM1N5aE1BbURrTk44Y3lMT191LUdvaElmYmVGWC1oMTVnR1JEZTBTT1hCeGdOcXNEdm9QSmlCZ2tRZVF0TzZheTY?oc=5"
  }
 ]
