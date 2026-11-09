@@ -1,5 +1,26 @@
 [
  {
+  "fecha": "2026-11-09",
+  "medio": "Las Provincias",
+  "titular": "Las gasolineras más baratas de la Comunitat Valenciana: dónde repostar gasolina y diésel al mejor precio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkstV2kzSmdzM1Q2bnBISVItbXVBaTlGeFd6QllUNUhKM3g4QmdLejFjaGIzR3hsOF9UMGZGS0s3eldxMm9SOWJDNjJHc0dSb3IzOE8xM1d0MVp0c1VmVldpN203cVFQOVVGS0tzcnlSVVd2RmptcGNoYXJqNTI2TWtSaUE3XzlLNHdET3JfMTlLMk5oRmVrMHh4YTlHbVZtNDlEc3NMVXNKVzctcVHSAbMBQVVfeXFMTTZSMUZCbzVlbWdsSTdqYWtUY3lnQ0pvUnJaYVlHQnNZOEotdzduOFBYekZCX2FmYzJRcHNvT191elFKN2h2aTE0a1VUN1hTR0J3M2dTZUdkcmhtV09WV3FHQlZzOUpSOVI0ZG1EYlVTdHVLdGNLR01ZUFhSVDB6ZXlvY0lrQ3ZtMG9DemhwNk9tM1B4aFVZeXVsTXU3Y293aUlXRDJrUzBuUlR2YkxfdTdINVk?oc=5"
+ },
+ {
+  "fecha": "2026-11-09",
+  "medio": "Demócrata",
+  "titular": "El precio de la gasolina hoy, lunes 9 de noviembre: la gasolina 95 cae a 1,676 euros y el diésel, a 1,870",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CMEVtNVNkdWJwTnhCY1dXeW1kRzNHTHBVaXYzcDEtNkJkSWpYY1hQd0RhMUdyWF9uQldqYjNrOWc1VklDeXNfNV9qUGR2ODJESXJkbnh6Q21YdVdZN08zTnVMQTZobHlTNUpTcnA4bFJpRFdMeDlRcUZaVdIBgAFBVV95cUxPRHp0dWxSWWw3aDFPWFhja2JoRVhHVk55YUdhcDFueU56bndMX3RfZ2o0dm16RmNwaDQ0NklsVU9mdEQxcGd4d3NTWGY5T0x6cm9VZWd5bVNReG1HYXJVUVlqUG1aYURWVnUxeGJ0WlVaZ2l6UUNhOVhQcUFaa3RGUQ?oc=5"
+ },
+ {
+  "fecha": "2026-11-09",
+  "medio": "El Periódico de Ceuta",
+  "titular": "Precio de la gasolina en Ceuta hoy, lunes 9 de noviembre",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVhuQVhjWm44V3RuMjFBUEs1UENCZzJSMmhpRUwwU0ZsRmg4VGtfUzY4Mkdjb1pPbG9oMnhKV0dScnhvWG5pNWZfMmg4Ym9xY3E3THlTaFFQeUpDSkNwejVIcmlzeXFIcUhBUkdiMWNzaWdlTXNETTJ3SllLNmtXa3IxVTc2R2RjZTNJ?oc=5"
+ },
+ {
   "fecha": "2026-11-08",
   "medio": "Canarias7",
   "titular": "Las gasolineras más económicas de Santa Cruz de Tenerife este domingo: precios de gasolina y diésel",
@@ -19,26 +40,5 @@
   "titular": "Ahorro en carburantes: estas son las gasolineras de la Comunitat Valenciana donde puedes ahorrar hasta casi 26 euros",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNlFfNXhhUGJWWW5KOGNBMk5pc3ktbHB0cTEzMW9nMGFvT0VpMjhIWWUwOG1ndnQ4T3dub2ZadUh0N1V3b2x3Znc0dUZtT1E3a3R3ajJWcUdfbHBMUUdId3RHUy01dEpNbmFhb3hXZklvZjBMMkVIMENWR2U0R3RiYWxHMDhEYkIxNDlCeVNpandVdm1Kbmh5MndOZWIzZTlsYnNUZWdkeXJCVkVJSzJHblJwOVMteVcxZ2o0OTRtV1I5WUxwdG1uamJHcHNoOWpmb0tmbF9MSU01ZVh4Z3p4SG81dTFXV0VLRG9uZzQ4Ni1kTkZIU0E?oc=5"
- },
- {
-  "fecha": "2026-11-08",
-  "medio": "Infobae",
-  "titular": "Este es el precio de la gasolina en Lima hoy, sábado 7 de noviembre",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEx6TTYxRktTb0FmY1hyNjNzSmgwYmVSRVJCa0k4LVBXbERnQ0pyZEFRYkpLdnZKeUw0ZWhXeDZta1gxX3VuLTRmZ1FVa0lHUXBPaUdpZGxzbXZnb2d3MUR2aHFpMGdQSmRESng5dDhiYkhYVG11bmJ0dTRtNW8xYkp1STZ6UHhDd2prcnNR0gGoAUFVX3lxTE9FT19RNjVwTUM5TEhXQkpYdEpFcUV0N3d6aDdNQXJReU5EMjBBckRXLUt2bUc1YTJzTDR2LW1EWm5IZXV0VHNjbUU5dlIxT2hvRGpHRnJKN00yQ085bEdNVE4ydHM3cGFlS0l1S0ZRX0xlZ3B0UDBBYmRrYVVvZDN3WmIxUzdleXlsT3pKc0RIQnNGaEQ1TmEtLS1mdkx4Z3JCc05fdlUxNA?oc=5"
- },
- {
-  "fecha": "2026-11-08",
-  "medio": "El Periódico de Ceuta",
-  "titular": "Precio de la gasolina en Ceuta hoy, domingo 8 de noviembre",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTE1ck01dUNFNWtOM3AxOHphM1dzRDlRS2loWUZkNnhzRmlETnhXdXRzeXduWkpoMkdIY0IzMlVvSDZWc0Q4Szc3a3gzWnk4UWNJejljMzFhY20yYm81QTNacWNGRVpOM004bXMyWVFhbnU5SXNRUkM3dG5TajkyVE9la3NMcDd0cUhF?oc=5"
- },
- {
-  "fecha": "2026-11-07",
-  "medio": "El Digital de Albacete",
-  "titular": "Vuelco histórico en las gasolineras de Albacete: el diésel se dispara y ya cuesta casi 18 céntimos más que la gasolina",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbTQ4c3BFeHhQTDRDYTB4WjZYYk5fbk5jTF9CaTV2YU1idUEwWWE5ZmhiaFN2U1Y4LW4xYTNTUU9Sbkh1Q05mOEU3VW9aOGZEMnZsZ1ZPZ3FuTzZ0NTFxeU1HaGxsR1BRbkcxOVoxQm92aFNkQ09ZdGptV3BkaUpiV0t3UzFBeG9JN2g2TTlJN2dTVTNlbEI2QmYzTkFqaURBYlFVbXhSN0NfTC1tZVk2UDRNbFZtTlo4RHEyM2E1RGV0ckJRcnFIcmhvN2IzMjFuMGRvRnVua25MOHZ1eTdNb2tCQ3Zfa2U1NnRBdXYyaDNnV05BMS1Gbw?oc=5"
  }
 ]
