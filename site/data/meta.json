@@ -1,17 +1,17 @@
 {
  "carburantes": {
-  "actualizado": "2026-11-11T16:06:59+00:00",
+  "actualizado": "2026-11-11T18:54:16+00:00",
   "fecha_datos": "2026-11-11",
   "fuente": "MITECO",
-  "gasolineras": 11305
+  "gasolineras": 11311
  },
  "recarga": {
-  "actualizado": "2026-11-11T16:07:02+00:00",
+  "actualizado": "2026-11-11T18:54:19+00:00",
   "fecha_datos": "2026-11-11",
   "estaciones": 12114,
   "puntos": 35905
  },
  "noticias": {
-  "actualizado": "2026-11-11T16:07:02+00:00"
+  "actualizado": "2026-11-11T18:54:19+00:00"
  }
 }
