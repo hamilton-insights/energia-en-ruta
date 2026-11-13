@@ -1,6 +1,13 @@
 [
  {
   "fecha": "2026-11-13",
+  "medio": "Autopista",
+  "titular": "La gasolina y el diésel dan un respiro y así bajan sus precios ya en las gasolineras españolas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS3JPbDVMM2xTSnlhVldMNmxDcmltZnJ4U2JBWE0tMEVKN2xwY0FCX3FxWXc1YUJPTnpDSUNoRU4tTm5lTjJfc0lXYm5fdUJPaFhvSW9LSUZFNktrQ0ZfaGJwVjlDbWRnMHEtSFByckw2REMxc1g2OTU2bTV6UEU1bTBZNWtQS3luWmZUaHNrN0stcy0zUkRnZFFqMEJHY0lKUG55clFYazAwbTBKQnpSdnEzVnFNX1ozdzFRbEI1bTd0U1NlSlhRedIBzgFBVV95cUxQa3J0RC1FdU9kV3pxTVhGanFJWFR0N1JBbkV2RHJxWXZIMjdDUVhlc1J5VkNmMHZ3Rm1fLTNUYjh6bkVJbm5fbC1TbGkxa0xpNFpfTW13SEkzUlJ2WTVLYkNJWHFFUHRDaVVmcmdfTFVhZlNzNHpCS0RYWWVXaTBWcXktUlUxdG9tVXRBLTJrMG5LdktDalNwT0lCc3lycGdSQWQyVFJtZ0FCSEtJRHF5S1NCM1FyM0JmX0xoT3BwMXJjR3licE9NQl9CVDdlQQ?oc=5"
+ },
+ {
+  "fecha": "2026-11-13",
   "medio": "Cadena SER",
   "titular": "La rebaja fiscal a la gasolina frena la subida de la inflación que se mantiene en el 4,9% en octubre",
   "resumen": "",
@@ -8,37 +15,30 @@
  },
  {
   "fecha": "2026-11-13",
-  "medio": "Jerez News",
-  "titular": "Gasolineras más baratas de Jerez este viernes: ALCAMPO lidera la Gasolina 95 y el Diésel A, SHELL gana en GLP",
+  "medio": "Diario AS",
+  "titular": "Ya es oficial: giro en los descuentos en gasolina y diésel para millones de españoles en el mes de diciembre",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONTZ2RXB5SzZPdGFOVE5PRTZCbVk5TDJHeDhTWDVuUUI2eHZMME5nT2NSVmlGMnlYYnlOX042a3o2YXhBc21hRGpQUmdvU2hvSU9SLUJsSjdIeUNac2JQazhmbWJ4VDYtMllfdll0dkFNNTFZdncwenlWTnptMWlZcmZGdWt0S2huRFdaTjZrZEZCTDc3dExDQ2YyUVE1ZlpUZGhSMGtGUFlleFFVRWdob0xJUEE3OG5QTm9IZ0ZLQVgxRHRETG5PVlBn?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUmJRRVZndmlCMDZrUTVLd041bFplUWpYNDJaa2s1Znk2anQ3QkpxcUVYZ09zQmhVb1N0MlVldlA5dUxlMkc2YkFPZEtRVnJQZjBVM00yTGRMSGFZX2RRckNSNzVfXzJnbnRYTDAxSllaNVplNjUyT0FCYzZsdDZOdlU1cWlyLXkxdDR2czdsSmJhdU5HVUtCdEEzc0N3eFpfZ2NPQXVBRVpoczJIX3ZKWTBLS3JQSmRReU41b2JUcl9RLUFvVmdGajN4Nmd1UlNGRl9GdG4yNWNCeG5zaW4zd0pBbnZEYWd30gH8AUFVX3lxTFBEV2lPNVcteklDR1hMTUx1WnJuUHRRR0tSLWI0c3N2dkcwNW9OZVZ0VDFTa1NLQk1qRVhKeWNsbnZTQTZtb1kzNnhabkR0WjhIZmkyTEZXRldRUGY0VlYwdGFTX3BZTkxyM0FzTkR4TWFnQzVkcXJWX190Z2tyWGdlNWhva3R0NEl5dlEwZERucjdHcExvelZLMmpRQ1V4VkxHZzFtSVh6VU9CNXNpUWtGTTRMR2s0S29pZWtrbUhiRWRXSjBDTTN3Vl9vV0pzTTNJejBVNDdLb2hJMmJTUlU2QzY0WF9RWmxybjlSRmVBWFMyZnl6NDBMdEVtVw?oc=5"
  },
  {
   "fecha": "2026-11-13",
-  "medio": "France 24",
-  "titular": "“¡Ya no dio más!”: Chile y un precio histórico del combustible que parece extenderse en Latinoamérica",
+  "medio": "MARCA",
+  "titular": "El descuento de 20 céntimos por litro de gasolina y diésel se mantendrá durante diciembre por el encarecimiento de los carburantes",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbVZScGtHeE9qTTZHREFDdk01ei15TEwyam8xN3hwNTY2V2w4R0xFdV80VVRlaEVzTzZDbUVEc0hxOWdZMF9FUmo3SHpQMTFKeTUwOFBPb2dQNld5R0dfbHk1RTFUdUpEZmhIRVNnSi1PbGdYZThMMmFHRnViZWk3VUQzd1BOYUI0ZFE1N3puclJoWmRkWWl6dlQ5SlltNzg1OHlTdFMzTmJhdGpWT1ZYS2xGWXlLdUFmalo1MW4wbVZubmZfWW1helhTcnZHcC1ieFk4c2cyYWhIUl91RlV3aDNHWEpFLUNrd3lDR1ZRR1hWQ3FwZFdLdU9KT04?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRlBvMGFRUHVmcEVXWGxiY1VEZVFtRC04VzlSYkYyUXZPVEhPOUg2ejRrYy1ESGtScGJyQVhMZmVjRi1UdGI3ZEh4b29vckNhUDZUcUUzcll0ZVZBRFktNFZUbTk5NVY2MGdzNWw4cG1NbW0zaDNGZTRvZDVXUmpmUGxTdkZDMlpVd2N6alBQYkhaWlRCSUxWMTVVS25RWFliRnhHb09sVFdueFRSbUpOZVd5SmJSeTRLOVNwZ1hFWnp4cjVfOFBKYmhiQS1VVnBDNXpTbUZqckxoLU1jcGFmRUdtUl82MlpadXRaS9IB7AFBVV95cUxQZld5akFPempiZkNBdVlSTUZhblM5UmpYczg5WlZrLWlucDh0b3NreFJ2S3B5SlhvZjZneTM0SkM3bW9qN0pudk9jT3F2dTJWeDdxc291RDlGWGN2Y0N6aU1HUTBjYTVlbDN3bXNKakl2LXR3eW03WmhvVXN5M2NxTzVpQ3EtbEVzV3lpQjV6V2NQUVI5TUdydFFRU0ZWdW9LMWRmUVNyeUZuWXJBSzI3cDF5QzNqZVdobzEtSG1TdTUwZF9SU3ZuMmxsRGExZmdZaGV0WWFhZ2RiMThpZG56VXk0V2lGZjRyNVlZNA?oc=5"
  },
  {
   "fecha": "2026-11-13",
-  "medio": "alertachiapas.com",
-  "titular": "Gasolina en San Cristóbal: 6 estaciones venden la regular bajo 23.50",
+  "medio": "Demócrata",
+  "titular": "El precio de la gasolina hoy, viernes 13 de noviembre: la gasolina 95 cae a 1,628 euros y el diésel, a 1,839",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkZIM09ZTjNLWUdhQnFFblF4bkxTZmJHdFRrdlFLWUVwVXpQWHRveXM5cWlIaG95czZQTVhrekxIUnVmcFdCWHZlUFFtRkRGQnNTV0FUMEZRaldhRzZCRUdranlteWhZSFY5UVV1Tk5qaU1VNkUzMFV1OEJqeHJhdVhLeWM4TWJWVVIweXZR?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xdnc3ZDA0LWFWc19lR0l3bG5qa0J2aFVlb3FJZHNRMUE4bDNuWWN2bWNvalFXZjh3R1hrNXcxbVZZZ0Q3Xy10M3dNaTFFNTNOZDRiWmRkTXNZOFJBN1cwRkI3eENpWXZ5bkRHUmtEaXdTaXBBLWkwMXR6S1TSAYIBQVVfeXFMT19NdTA5M2IyMHNKaVpfZTFpckRKTjlWTzJ3MFlnUElqd0wtTXg1djBCNjI0TlA5MTNSX08xbndlaFY2QzVfR0d6RS1CN21QMUpZN3hvem51MGFhMENqU0dwUXlYa1h5UGVtVXF5a0ZqOThKRWJNMzdpTWdJZU8xd2ZtUQ?oc=5"
  },
  {
-  "fecha": "2026-11-12",
-  "medio": "Autopista",
-  "titular": "La gasolina y el diésel dan un respiro y así bajan sus precios ya en las gasolineras españolas",
+  "fecha": "2026-11-13",
+  "medio": "Noticias Trabajo",
+  "titular": "Economía confirma que se mantiene el descuento de 20 céntimos al diésel y a la gasolina por la subida de los precios",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS3JPbDVMM2xTSnlhVldMNmxDcmltZnJ4U2JBWE0tMEVKN2xwY0FCX3FxWXc1YUJPTnpDSUNoRU4tTm5lTjJfc0lXYm5fdUJPaFhvSW9LSUZFNktrQ0ZfaGJwVjlDbWRnMHEtSFByckw2REMxc1g2OTU2bTV6UEU1bTBZNWtQS3luWmZUaHNrN0stcy0zUkRnZFFqMEJHY0lKUG55clFYazAwbTBKQnpSdnEzVnFNX1ozdzFRbEI1bTd0U1NlSlhRedIBzgFBVV95cUxQa3J0RC1FdU9kV3pxTVhGanFJWFR0N1JBbkV2RHJxWXZIMjdDUVhlc1J5VkNmMHZ3Rm1fLTNUYjh6bkVJbm5fbC1TbGkxa0xpNFpfTW13SEkzUlJ2WTVLYkNJWHFFUHRDaVVmcmdfTFVhZlNzNHpCS0RYWWVXaTBWcXktUlUxdG9tVXRBLTJrMG5LdktDalNwT0lCc3lycGdSQWQyVFJtZ0FCSEtJRHF5S1NCM1FyM0JmX0xoT3BwMXJjR3licE9NQl9CVDdlQQ?oc=5"
- },
- {
-  "fecha": "2026-11-12",
-  "medio": "El Periódico de la Energía",
-  "titular": "El precio de los carburantes se mantiene estable esta semana",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGxGUjdNcEhDZFNKaHF4MTdib3R4YU1XWVlUd0ZpUElWbVN5ZVBfR00tQmVlcnNIemQyY0tRaFBNT1NQMHE1ZU5RYVZ1WEVpcXBrMnZHZk9GM0JMQnI1VVk1VV9UNXQ1ZkotVzAteHJJcHZUUklPS0p4eEwtTnZSTVZyTTRpTktpa3FCUWZIc1dhV0ZWM2IwRFlKc3A?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaVVPZGpCZUxHN2RoZDJHMnMzNzdJRHpEVUNwSHRrX1Uyc24zN0hlUUxPV1FJdlcxYUstWjFkWTFOcnZHaFV1QUlPUU5nbTU3TkFWUnpyTVppLVNfWlhLc1AwcUItQjdtVWVCQ1M2LUVucEtzUDJFd1VLNk55ZlBvc3NwOVkxSVUxU2JGSUdTblNNelNNdVMtMWh6bnNpLXh1a1JEX2dJWlZPVElDek9tbTVNYlc5bkEwU1VXQzgyWmlNVDd0S3E2WGliUUthVHVYS093TFlKc01Hd1lwM2lielFYV3lMZ1dSRmNMSmtWYnRlWHdmYWRRUdIB_gFBVV95cUxNWFRId2huOGt4b25yNVhZQXN4S0ZoUXgzN1pXSHozekhQZUtkNzZFX05IRzhBNjhMTlN2ZG1mSk80OXdPMGZZeVhrZjRoWGNuNHUtU3dTTDRsdnFySGtnRC13azZNS1B0Y2NIVVFaRXl5VV93OVlKZFVCLXgtMmMzd1FoMjBkaVBPRnNoSDhMaWUwbUtWU2VVNGZEaEh1QXV3aGtyaGUxNnV1aGg3NVBTdXVFOEZBLXlNblkxZ21XY0tXOVdWVmIzbEpta2d5OTBsU0VXSkM0X1pOZzBMQkNjR0dzYTNybmwzVkNKajZ0UVQ1ZHFXX044Szd3OHFZQQ?oc=5"
  }
 ]
