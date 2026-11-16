@@ -1,6 +1,34 @@
 [
  {
   "fecha": "2026-11-16",
+  "medio": "El Periódico de la Energía",
+  "titular": "El sector del coche eléctrico pide ayudas directas, permisos ágiles y una red de recarga \"preparada\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUS1PR3I2RmhoRXhLYlQ5ZE5UNDhmbkY5UW1IYUZWRlFUdWlxSERtQkpPOXMzRm5wNE1wQ2JFM3NkZzNsb1pvUlloT3lFR0g3UG8zbW9YeDJFbUNYTFE1d2o2VWxMeGtLdnBtNmt4SzQ5UmZhOTV2RHhJM3JnUkJjRlBvNlcyVTlGVThNRnBNdU55SlJLN2lFd2lEVjdnT1BabHhaNnNTaGFwQTlyWG9rQVgxNlhDaF9zQUtMM3JBVTlGVHlSWHFpMDV2anhPQQ?oc=5"
+ },
+ {
+  "fecha": "2026-11-16",
+  "medio": "El Economista",
+  "titular": "La ITV avisa a los conductores de coches eléctricos: no comprueba el estado de la batería",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYy1KRDREVjRkZlhEYmdxaGwyVkNuMTF6enpYbGtkQWV5MDl6MWhvU1J5RlMwWnlHTjZkc19FVjdtRFo4elBsaWxjX3NsaFhBRXJvT1hkQXFMd1JNWEhQWlNpS2VURGlzV2w5aGN6b0VkWW04M0pmSnFSSUpnMDVqWWNUZG15YXcxTXp1VkxKWV9HT00xN2xWMzNIdHEtcW56cnd4dXB3ZHNwUFVnUEN6UHFXV0txdFc4cVhPX1U0SVMxa0JtWGJQZDFiUGVuRS1ieXNtaWozR3FGTGx6T0JBZVBGa0lEUdIB0AFBVV95cUxObC1fUGw3YjNOdThsc3lhQmYzVGJtT0xxVVFyUzBwb2hWZXg3UVo2SmR3aHZ2N0hFWjhXaUljNFNibTlLdi0tSmlqSVV2OC00TEdXUk5KdEJSUlZGc2N1bkFoZmkyaU9uaWI4V09YbHBlSGtzWFU3VlZXQVJGekVfTkljc0lSbmR4N0RFZzk5N1hKU2YwV3ZHa1gtNG8yY2xMU3dvYjFoZDd5TlhsVXpNZnhGZWFCNkM4d3A5MkdmUWpYTGE5OGRtZEo1NWZQQ0xf?oc=5"
+ },
+ {
+  "fecha": "2026-11-16",
+  "medio": "Somos Eléctricos",
+  "titular": "\"El coche eléctrico se amortiza en un año\", eso dice el CEO de Nissan de España: Te lo demostramos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdEFLaTBuX25tWmJ1eU83YXpqVXRLWmxfZ2NaalVfR3VhMGZNN2d0WnRJV1Y2RTZYMXlwNV9LRWFOOW9pOFQzMk9DQW0tNmVsMW5HWDF6TG1jcXVpcFZhNU5XYjBMVGZsRTZ0YW9tMVBaQ2x6bHBMMzM0R3Y4Yk40Z1VXM3dOcFRadTd3U2drV3QwUS1uU0pMMFJGNXlUbFRNcThqdUJBb3pFemJtNEMyOThnaDNGSjVPVGhZdmc3RThIOEVrdHRvaWlOcEw?oc=5"
+ },
+ {
+  "fecha": "2026-11-16",
+  "medio": "20Minutos",
+  "titular": "El sector del coche eléctrico pide al próximo Gobierno ayudas directas, una infraestructura preparada o transparencia tarifaria",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSkdxZkx0UjZYSTM4UUM3NWFiWEhrUXBaVG54LVNlRUl3NVNPaE9tRExPdzBFSUFJTjdCaFUtNVRWX1hWcThnUFVXZm16UVFhRmJIbzM0SFVIMnM0ekdFM1FqRGVhcFRvOXV6NnhjbFRVZnAzckg5NWpSVGdHWWlEUFdQWjhsUVowTmlJYzRCMnRNTTE3ZDlyRFFQU2sxeVVsOEZ0NHRpQmdGNWdOazBQMGt0dUN5dGRScHRyQkFYYVd6eVo3WlZ3ekZjQXp5YVBz?oc=5"
+ },
+ {
+  "fecha": "2026-11-16",
   "medio": "Somos Eléctricos",
   "titular": "KIA EV2: ¿Un pequeño GRAN acierto?",
   "resumen": "",
@@ -8,37 +36,9 @@
  },
  {
   "fecha": "2026-11-16",
-  "medio": "El Español",
-  "titular": "La industria del coche eléctrico reclama un pacto de Estado para garantizar su futuro hasta el final de la década",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWlh4UmtLU3ZOMDBuVnhYOS1HcHZRaUdOcmNLN0tKZmI4ODhGeWtCS0JyMVg3WmdGT0FDd2FQRU1SMEtSOU04czhfc1Y5eXRCclpJSE1KQ3lPZ1gweXlGcHktMDhYMXZGLW51akpmV3ppaHo5NmVRNmxONTFqdVF0cUVnMGpMdEdjMmZSX2pRN19ialF4MkFld3JXVkFYc3NhZTBDLVREaThPMlNqeGxDMHJoS1o3djdwdkpLaXAtd2t0NENROUlueUVFclHSAdIBQVVfeXFMUERqUWJuaXB5cWs2VWNtZGE1Q2xBSURSZ3JKd1h0Q1ZqRXNIWVNHR082SlZnTHNJVVBwVk1hdVRVUGVGNzlWM1FyRmhlY215ZzlxNTRCQWxYTlJwTkNpbFZocXowYjYxMmdzR2dlM2t5amNmeXZnbENoQ1p1X0lnVkd5cGd2Q2hqdkFHRjYtcWJKYnMtQzVtbXVhb2FCNHM5eWpqVXp4TmhoYnB0MjlEVk1KWWZoT0d5RG1oYWN5SkdHZWhOMGRTZnBjM3VoX08wZWZB?oc=5"
- },
- {
-  "fecha": "2026-11-16",
   "medio": "El Debate",
   "titular": "El coche eléctrico chino que puede fabricarse en Madrid, cuesta 17.000 euros y tiene 382 kilómetros de autonomía",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTXIyUjE5dGZ6S2Q4S2RnT1RIdWdyTTBmNEhLaVJTbkhjR1VZdU5ZSG9vUE5YNXRZLVN2cDhkUVRFU2JKbWdvUUFNcUJhdER2VXRtU1djeC16czNtREpFLXc2R3RBbm0yU3JYZUxtdmloTldPY29JX1A0dmFzYW1EQ0Y5LU51ZVZ0YndSQXlaNV9SemVpa05DSTE4S2hsMkxTR0pPQ0JzbkZCNXFFWDBZRDM5WmlabGF4TFgxTF9zenZpbHVwekxHbGZjTkZOZE9DZFQ4cjItSllBNWNnckdzRdIB5gFBVV95cUxQempMeHhQdWNlM1FZelVmTXQwbURhM3VEa2p0R2hfSmw0OWtrN2ZJc08tTU10WUdGbWl0UFNtZGhLc2VCaHFtRHRVM2ZiVnctTDA2dGVadmNpRkVlS0VpTmhyR1Rwa2NTU1FQVTVLWVRUeVFQcGRKSjB3VXJnamJSOVpkQmw3M1JtYWh3Z1NTRmJJc1N2Rkw5c1pqa2ppVWNJaTYzVmdTMURFa05vZEx5N3FHcVZ0V1JaR0FRLUZzZGI4ZFEzSGluRi1yVVUwejhOc19Sd3lsVmhUSkxzMV9ReTV4bnhwUQ?oc=5"
- },
- {
-  "fecha": "2026-11-16",
-  "medio": "Auto Bild España",
-  "titular": "¿Es posible tener coches eléctricos con 2.000 kilómetros de autonomía? CATL investiga la tecnología litio-aire para baterías",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTHRVanItSXlQVXFrcDIxODlmNEQtcWQ4cFFMLUVyYmJxZWxnNkFDeTFaeG5FdGhENHVxVjRGQUw3ZHp3YUhBZmc5Sk93YjlOWWtFQ0p0bklJeWV1c25yQlg0a0xpRkQ1SFk4N3pqZVB6M243OW10alM5Zzg2bU5kOGc5VXhYa3FuRndSZUswam9BYXIwY1N5Z0F0NkF4djUxT0lnak9zOHNkRGlyU05nQWpuRUdlS1MyRkEtLWR1ZlNmOEV5VFU5ajJjTVk5VUpPTnpoXzVwQUNiTHN4T1M4U2Z6QlVTb3BfUElGdUhYNENUczN4UVVsSnVvTUJ2OTNN?oc=5"
- },
- {
-  "fecha": "2026-11-16",
-  "medio": "OkDiario",
-  "titular": "Volkswagen frena su revolución industrial para fabricar coches eléctricos más baratos y competir con Tesla",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXo4aklSclZyQkU1aFljZ0xEZTlWRFlsZTN6cFA0cG44bEQwYW5iM3Z6RU9WUTRQdDBDMGdmLXhqNTlNdmNKTzkxUkJUR2FFeU1WeHpTdkgyM0ttQzdrTGNOdENJcHEyMTVyTFJkTmZXdGxObWlrVzRsbEZtN3lwcmF2Znk0aElsQXA0dHpnazJUQ0QtMlJQOTk5NzFjeE9pX29EeGZ1THgteHhsd0o3dVlFTm9fUkxCcEYtNzBFR2szaVJTVGZz0gHMAUFVX3lxTFBiRGJOcGhTSVNPSmpYSGtmbkZ1VEtYTkJ3OTQwcnY1dmpLNFh2Qnl1V0s0U2R3VnU4UFlFMFZ6aGhoVnBvMllsdmpOZVNpYnRMUjZLM2ExSEcwNXhLLVdlOFhsbnVrUVJRUTgzZDNJN3NyYUk5ODU5LXBRUnk3RjdGaHQyUXNTS3pGcF84ZUZ6alhQU0JuNVJ5b3c0OE5ETTVjclAzTGVpMHZnbFNwYkU4TWFvbWc2TElkOVJOMnNGWWtCQ19UT01fc2oxVA?oc=5"
- },
- {
-  "fecha": "2026-11-15",
-  "medio": "Somos Eléctricos",
-  "titular": "Estos son los coches eléctricos que más se están vendiendo en noviembre de 2026 en España",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT0o2TVpVNU44U0hBd3JBVW1MWkhIMXFuWnYyeVlJWk9RLS1kVkpQSXd0ZmswQnJWeHBSb2dUd2g5bXdsNDFyQjRjcUtmd01MMXdsTnA1Z2NmYU5nQkYzNGRYdU5EaXFDdERDNW5NWmRoa2pnb2g0Ny1wcUFEUy1uUzZueGJHUHpZTGhpTnpfUkxwQzVfRzRqVmgwZV8yY2FzS3g3aDc1U01lX3BoNzFmY3pqU0NycTJBMktacVJ0Y0hOVldBSmJtbFZWTmxjVC1jd2t6Yk1Cd0dVQk0?oc=5"
  }
 ]
