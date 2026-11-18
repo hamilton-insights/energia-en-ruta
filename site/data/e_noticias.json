@@ -1,24 +1,17 @@
 [
  {
   "fecha": "2026-11-18",
+  "medio": "El Periódico",
+  "titular": "El 62% de los españoles actualmente pagaría más por un coche eléctrico",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkJMempTT19iQUVjekgzVzkxRG1Kd0Z1LVJ6dC00b05sMGFGWW44aEtaOTdwUEZMVEFyUjVodDBKVjFtLU8yWU50Q0RRVTg1TWZFb01Lbk1wQklaOXRVSkhFQ3g2YmdiQVNPQVQ4MC01TUlmOWhoblB0Q19jLUtQZGZHMVMtcThRY3ZWZThWWmRiYTlGc1RSZzAta00zbEhTVG5ETU9wVkJ3ZmFr0gGsAUFVX3lxTE5qV0ZRSE5odWJaTkg1eC1ISjN6dXRrTmpnSEVLQ0cxNzlKLWRId21OcWJhRFk1aFdMbHBYeDdvVXBBazZZSnd4a2E3amxtamk0bjhwb0Rta295eklZbTR3eG1yRWpxLU44OEVIMS03bVMxM0xwbW8wcG1uMDZuaGRNUHU5U2FjdHgtNjh3WXJmU2NjVmNmc09aMmdtdDhwcXRTZVU2VEVYNDdGMmY?oc=5"
+ },
+ {
+  "fecha": "2026-11-18",
   "medio": "autobild.es",
   "titular": "Europa acelera la adopción del coche eléctrico, pero tiene un grave problema que a día de hoy no se ha solucionado",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRVA5VGNUQlZLLWEwZWN5WTNnR0IwejRLbWswaldyMHBFNDRHVHJmWFFJblNwYTAyQmUwYUlxck8wVmdLQW4zT2JZcnBINE12MmpYWm9oWUljaTA1ck9EYzlScXpheFlITVlJRzJ1R05kSUhQRkNtNTFDYzRPeXdlWlJMMm1HRTZWUEFIOXJFcEJjSTgtdXhLRVZhM2dxNDZSVnlILWxLVXpZcVZiYWdENjJSRUVXV2VJU2MxRVRDdmt3QnJqYmFlNEt4Mlg5M1dpcDBIRFVpaENzSWlSeXc?oc=5"
- },
- {
-  "fecha": "2026-11-18",
-  "medio": "elDiario.es",
-  "titular": "Cuenta atrás para que se agoten las ayudas al coche eléctrico del Plan Auto+",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWM5aUNRODBCcFVBRUNWaXBKUjdpcC01dGVNejlPdy16RV9GdW1wOEdmYVE0a2pVTVFsSl9wSVhsYkVRNjhabzNGOFVzZk0wZWMta0tiVGNlM0RhYklSY3pWY1NLZTdHYVVuSzc3QVRyQUhSR1pvTTFMWV85dzNEMmlKM0Ric3JwdWxCUE9hcE1sMDlPUWJJNVcyNS1GNjJGSDN3QXlKZEgySGtkSEHSAbMBQVVfeXFMUFc3a0lnTk1nTGFzVGNqZTBlMHJEMGxZOWNnNzhGejF6SmxXTTJyQmZLZlhBYjYxX3BRZGJ6djhfMC1GbFRZU3NUbEJnQzNNODhBb01DUHIxVUJscmYwcENtaU1feUtsSGdFaFVhQV9aaDU1VVhUeG5TOWVnY0w0UHNxa2h0clM4OEw1T0tKaFdvZ0RTYUV2V2VfcVAwQVNQcHgzTXJqdzFwWWYwNG5mOVF5UWc?oc=5"
- },
- {
-  "fecha": "2026-11-18",
-  "medio": "Somos Eléctricos",
-  "titular": "Coche eléctrico: ¿comprar ahora o esperar a 2027? Haz cuentas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnVKZGE0NXNjdDlWbm9NV0pka1JaY2drdGNpQUh4ajVIc2VORFphMWlUQ2ZDeThvcW9fTi12X0NJdnViamZHXzFXTENfQmlhbzB0MXZLck00UFh1OFJ3VGRJeDhFbmJxaXpGVHhBSmhmdjROUDFKQ1hKYWU1dmVyWEdYMjJXSl85ZjZEMXdRYVdUUnc1bmVUVlI5UGdDX290RnQzNGZrNTh3TnNmTHUzejItejZvZTZVaGluNjExTWRHNDZqYkE?oc=5"
  },
  {
   "fecha": "2026-11-18",
@@ -29,6 +22,13 @@
  },
  {
   "fecha": "2026-11-18",
+  "medio": "elDiario.es",
+  "titular": "Cuenta atrás para que se agoten las ayudas al coche eléctrico del Plan Auto+",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWM5aUNRODBCcFVBRUNWaXBKUjdpcC01dGVNejlPdy16RV9GdW1wOEdmYVE0a2pVTVFsSl9wSVhsYkVRNjhabzNGOFVzZk0wZWMta0tiVGNlM0RhYklSY3pWY1NLZTdHYVVuSzc3QVRyQUhSR1pvTTFMWV85dzNEMmlKM0Ric3JwdWxCUE9hcE1sMDlPUWJJNVcyNS1GNjJGSDN3QXlKZEgySGtkSEHSAbMBQVVfeXFMUFc3a0lnTk1nTGFzVGNqZTBlMHJEMGxZOWNnNzhGejF6SmxXTTJyQmZLZlhBYjYxX3BRZGJ6djhfMC1GbFRZU3NUbEJnQzNNODhBb01DUHIxVUJscmYwcENtaU1feUtsSGdFaFVhQV9aaDU1VVhUeG5TOWVnY0w0UHNxa2h0clM4OEw1T0tKaFdvZ0RTYUV2V2VfcVAwQVNQcHgzTXJqdzFwWWYwNG5mOVF5UWc?oc=5"
+ },
+ {
+  "fecha": "2026-11-18",
   "medio": "Xataka",
   "titular": "La Ley lo permite y los expertos lo confirman: tus vecinos deben adelantar la factura de luz de tu coche eléctrico en algunos casos",
   "resumen": "",
@@ -36,9 +36,9 @@
  },
  {
   "fecha": "2026-11-18",
-  "medio": "El Debate",
-  "titular": "Las fábricas españolas se quedan sin baterías para coches eléctricos mientras Europa sigue sin saber producirlas",
+  "medio": "Somos Eléctricos",
+  "titular": "Los nuevos Volkswagen eléctricos que llegan en 2027",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWMzTGtCRG5RRzMzOFJLZk1LSkx3MmhRamRaSXRvZmlaN1h4dTdIQnlYZ2s3WVpQSkxmbkdUckxTUE8za3hxWDVFd0RDOFVval93VFI3dWZVdWd1anVkQTVKUV9uRThtN3dIemg2M3pRRzlCVGk0N0luR3VMZk5sN3FkQXVrMFJQVGt1VHBQYy1RbkdCWGtXNGpHdHo0NEx4QldUQ29rVkJyeWEwMmZ3VlRYVndKNDZEN1l1b1pON0ZyQTNuTzFNM3hkejBBNUw0QnZrTFUzd2JtYXpa0gHiAUFVX3lxTFBxRWM4RUV3UG1ERTkwT2pUYjRHaFRqcTFra0NjVFNvb3h3cFhwVEZmUnpKVF85eElOU09HRzcteVlCSEhnWVcxLWFnRnB3ekJiMlpyTTVjWnZKNDJMQ2Y2X09OTzMxMFpGTmZaUUpBdElHYzE3VkxiU2tlQ01Id0VVYlZJLWJ3VHRWVm9XbS1keHVWSG1hejlzWFk5RERPeDN1UnVXVTJBbTllTkVhaVFFZmYyeEJ4eTF2MFAzLXZMN1NxczZuNHRkRHVMTWtva3hGRHpWTkJHNWV1dWE4cjdXYlE?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGZPZ0d2OHMtdElXcW02eGtHWE1vaXlwOVBXX2ZKc3d2S2pzX0IzdEYxMC1wVjdfczFOd2Z5MEotSEs5TnI3VzNrcEtUTTZ3cmZOdEtLUXF2dGpTZWMtS0hxaWxPQ0F2THpaVVRQa19CNzZ3aG1FQWF4RlBxcjdzSlNvMXExa2hmRmxBUjk5V1Nubzl1OHVuVGkxclUweGlYbF9SbFpybzVzcndXNXpTVWFDMW5zZko2VnlmQw?oc=5"
  }
 ]
