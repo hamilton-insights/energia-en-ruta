@@ -1,5 +1,33 @@
 [
  {
+  "fecha": "2026-11-20",
+  "medio": "Demócrata",
+  "titular": "El precio de la gasolina hoy, viernes 20 de noviembre: la gasolina 95 baja a 1,569 euros y el diésel, a 1,798",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTVXZfOExocmY5UXlSalN6SGl2SHd0SXljcFNmekZVYTR2b3ZTU1FkenB5UVlCM3BwbkNzMEJhT3pIMXJrWUhKSHZfdWNrV1F6RjEzMnpISERnVU40LUo1OThRZnpMd1Q2dnZqOWV3aVdXUENOaHZMdC1kVU_SAYIBQVVfeXFMTUdFaVJnd3FxRHJ6Y1pON2UtLWx4bUNLVUpQWU5DSmkyOXFybWg4Wms3S3o3blIxTlk0RDF4LUFheE9OSXRSM0Zxd3MxVnA5OElDX2F4X1VDSEdMTlpHanRpdGhiQ1UzSEtjbGR5UjN1Wndlb2k3MmJ4aURxSUFFNm1rdw?oc=5"
+ },
+ {
+  "fecha": "2026-11-20",
+  "medio": "Infobae",
+  "titular": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 20 de noviembre",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3JFZFo1b0Jxc0YzX1FWOENFcC1BZ2VsVEJHVzNQcGF4ekR5blM4alJWTkhBSnFuNXZNWEstNW13SjJtaDBpN2xtdHV5bVVzRzZQUXV3VWV4VzlRdVdyTG1WNGh6V3M0Zl9hbHpxRTRHRmkxbFczOWc0dG1JWVdFSTZrYWRZWWFpRENRWXRBbjEyUllTOG9hbDRHekRlX2Fxc1VwcFI1SGt0Vk80bG1EOU1kWTJraVRJS0lTUnRWeGpjTUVGa21SQk51bGxJaGt5bzFPb3ZUWHdGZnM3OHdEZTJB0gH8AUFVX3lxTE83Uloxb182WkJhTV9rM3dWbmthNUNpcjFtdk1XOXhwNXVTLXI3R3cxU3BpcEhaUFBFYURFMmNnYm4xUG9nY3JXZ3BzX0xrbGFxOHoweVJTM2xnS0FzS2xWa3pqWFhveGplWEwtQ3VBVlFFeDgwYlJ3cFFldk5MZk9LVkdFSm14V1hvLTJWZXJXNzJ6Zk91N1F0MEhSNlo0czZiZ2g3SzNaVDVNcWgtVjg1Q3B1eVppU0JCRmw1YkFlVkNrdFBrZV85RDZUX0ZmTEQ3RlBkd3VraGctZlExelFfTC1LM25sdjJJSWtoTXhsMU9VdG1tcUdHZHBvQQ?oc=5"
+ },
+ {
+  "fecha": "2026-11-20",
+  "medio": "Zamora24horas",
+  "titular": "La gasolina y el diésel siguen bajando, pero llenar el depósito cuesta hasta 22 euros más",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenU1cmlEcEtzOU1PWlFnSTM2YUh2ZWt1bTExUGhUVnZ3WGZNZlN2Y3ZHSVZBRjlvRUQtb3M0YXJMSGZ4V3hXcmI5MHJpVFRObUhDQ3dSYi1Zd3dhbTVkQU5jeW5INW0yejZMYlVVYUU3Y2xmVlo3TUhjWlFhczc4bUtySGI0QW04TDI0OURxcnZQSmFDcmhRc01hbXhqVFk?oc=5"
+ },
+ {
+  "fecha": "2026-11-20",
+  "medio": "Jerez News",
+  "titular": "Gasolineras más baratas de Jerez este viernes: ALCAMPO lidera Gasolina 95 y Diésel A; SHELL gana en GLP",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGx1Z3dkQW8yOElURlU3bkx6UldpamJoVFVkUmROWUpFZ0huTWtHVHVVUmZNa1pCNWd1RzJpVGVWeGFmVHZpdTlrTDhDMzRrbm5NSnRWRFE2Rk5UMWR2cVh6akd2QlRCNW9rVTZpdE9YbkNJQkZVU1dVbDdCMWR6RFRyVklLQWppOGtJblR0bS1FWVEtZHZjcG1xaFRxb2oxYW15T05fY2M1NEFlbE1ac0tXLTV3T3l4d3B1U0xsNlp2UQ?oc=5"
+ },
+ {
   "fecha": "2026-11-19",
   "medio": "El Mundo",
   "titular": "El precio de la gasolina hoy, jueves 19 de noviembre, en Madrid: las gasolineras más baratas",
@@ -12,33 +40,5 @@
   "titular": "El precio de la gasolina se desploma un 6,1% esta semana y el diésel también baja hasta los 1,837 euros",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZGJadElnckhWQkNNVEtfc21SUE9sZHFDRW54bnpNcWszS1VKMGlIb2ozTDMtRFRUd29HSHBJcEpBc0hrZUg1aDRGallNZVVYZFEzZmJYQUxnYlI0UVVMM3NyV0k1clRzbzRvcmV2aWk0SF9NMFM0bS1pblNCbG1OR1M2cTdGVmp6Q0hmajEwYVh0SW1mRDFYVUdMbDdVQ1p4bXRkX3p0djFlaVZyQ2d0WWZVWUtfR1JIb1dkNHd1b3pRMFY2a2k5enpXZmdrOE95MW5MVXNLMVB1NXJZeW9ZYXV1ZnJqcjFuT1HSAe8BQVVfeXFMTXFOemxkc2dQRFFYREVjNDN4Y2JvOHNYeUw0cU1PdFp0VHBTUDVYdGZabTFyZzdDdnlIOXprOUtDVlQySEpGSTFVZThOTXphTncyZ2t1cVRWYzVMRE9lME9GMldKUll6Z3VRazdyV2xMdHhjcmlVRzh1TGtHMEY2V0lkRElzbmthNmh3M0xRaDdBRWI0R1pBZzVLNjZkYWV5WHVNX1pqRkd4YzFFUnZheFJUalozLUhxbzNaNWpSOFp4aXhwTEJ1cnpPZVZjX0VyZzRBSmZ3djI5cTEzeVp5c3FNNUx4NndjR2J2VUxpWms?oc=5"
- },
- {
-  "fecha": "2026-11-19",
-  "medio": "Las Provincias",
-  "titular": "Las gasolineras más baratas hoy en Valencia, Alicante y Castellón: dónde repostar al menor precio",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnd5aEY5SFJZb2lzTlVHU3ROZjAyM3FBZ0d4djQ2UE9KSFB5eUhmd2NKZG9GVDRoUFBWOTloMGI4Y09OUk9mZlpWQmpYbWh6b3NoWjRIR0JnUVhBZ3FyMzhXRWxNMVpSWUtsM0pnQzBzNDFhR28yMklHQktvbXBzYmxFbFdWM21UWnBLVmljX0xadlhkV1NpVEJYblp2TGVJYVNzTFJodUtqQdIBrwFBVV95cUxQNWM4b0NNSnVLcGFqdVAyNWlORjdScE52bWpzb19NU1ZIeG9RNGNEVkdPN1dfcnZuYzFVYlctaVppNTlMSTVWN2doMFRKeGpuWG1UeldQbXE5WkJ3ZlV3c0tmTEd6SVNFN0dCRkZDQjNQb1RRZWFNZlZUU1NXZFdGaU14V2w0a0I1bEsxNjVmLVBncGZhdXlaYmd4aUVaVEdlNDhRZThvbThrY2x0VGRR?oc=5"
- },
- {
-  "fecha": "2026-11-19",
-  "medio": "Blogthinkbig.com",
-  "titular": "3 apps para encontrar las gasolineras más baratas cerca de ti",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3JXeExoTWRsR3JibUJucEgtQVlKMUpjLTNVVW1BbWxDTG96S1czWXBNVWZVSnBpQ3hhLUVLYWU3UVpIMlBreG9LSEVpRUhJLWNLSGp4WnhOQVg1YnFwYUxVNE9EQWtJNGVBUEl1NjVtSS1DVVFGQS1GeS1lUGFnZ3dmc0Nnb2hjamFZSGNEd0VZa2M?oc=5"
- },
- {
-  "fecha": "2026-11-19",
-  "medio": "Servimedia",
-  "titular": "Los carburantes siguen a la baja y la gasolina alcanza su precio más bajo desde julio",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGRCanVBZnFzNUl4MUlTeTcyTjJWaGZvNWxES2JycFRacldmeTNOUVhiTEs2OHg3RC16d0tHV3RnMk1sZjBnZndMYUtLcE5sUHlWektVSjNreWVHV2tpSFpjekVfdVVhSVhYQU4xbm1hRC1fTWhGcGRrTk1sbm12ei0wNVczNVhHdDFiT2RpcjdGVXpOaHYwcHFiSncwR0R6eDc3S3JNeDRsejk2a2szbTc3ZWs?oc=5"
- },
- {
-  "fecha": "2026-11-19",
-  "medio": "La Razón",
-  "titular": "La gasolina encadena siete semanas de bajadas y cae un 16,3%, pero llenar el depósito sigue siendo más caro que hace un año",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbmxzc25jSW9pa1NuNjFkdk0zVy1rc3dqc0Nmc2xOVWI3UWozZkNOeFVzZzJyandPY0hPVUJuSlJwb0NMWTl6YmpBZUZLMDVwWV9UUHI4bmU2UUxZbXBsSjNnb3V4ekVuc09nenJZQ0x3UlZ0bjAzQXV6Mk1hS2g1V3Y1YVk2d3Q1WHNfTERtWVhLT1hFT0dlVGpsTmNDOWdkUWZEREZ3cEVOcFBjb1phbGdBZHFtNXdNc2ltcWhPTzFYUDZTRnMzZWctNDF3T3Q3YjMxR29fM3hGNFZoRW5HQmFQMVQ0cEtSbmxqQlRhUlllZklQZ2hub2VrRHVMM3JBblhJ0gGXAkFVX3lxTE1XYzA3NkY2QjFvQVBqNmY2bkpVZDNaUjdmRVFNQWl6d3k5ZVdCUUJrb1o3OUw1dUtMTGxZWlFHWVJoUG5Dc1d0SENLUDQ3U0pHdDNJOVB2RUdjcGRsOUQ0SXZiUFZXUG94bF9LQmEyWWEtSWlXUDNnc3lubVRqV2lRRjVrQ3BXQUN4ZzB2T0NBZFVRdS1ScUFKNVpVTmRXdjFIY1Z2Sk1jRndJbF9ObnZBcU5YS3BkNHBjVHdVOEZPdWw5cDBxeGt2UTQzTFY1TnJ4UTZlSGk5QzIwSGhacVVrLWJpR3JDRV8ySm9GQ25WNzRydDA0TkZVWDEtMnFncTRYRmJiekZ2VkJQak1kN1JQejVXYmZWUQ?oc=5"
  }
 ]
