@@ -1,5 +1,26 @@
 [
  {
+  "fecha": "2026-11-21",
+  "medio": "La Provincia",
+  "titular": "El mapa de las gasolineras con el precio más bajo este sábado en la provincia de Las Palmas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmp0U2VjZXVLU21RUmQteWdqQ1VBX19DLV9SVC1PeVdzOEtUc215eDF0Rm9jQ0RsSXZOaDNxZW4wU3dYMXpIVnoyUFhWdW5PbTdXX1NfUEdBX0JLeW5taG40NDlPaElVQ1FwbTRVaW43REJpRm9kMTJ1YXo4blNUelFfODZsUW9DTEdvU25KbkFCYjl5RDl6RjhYYV8wQlRsSlFSMXVlNWlPd9IBrwFBVV95cUxQQ0JSbGhtUUxkeVRva2JsUHNEb0k4bFdkOU9hSHl5RVBrMFBBeFY0R1lyTnRsUnp1ei15RGtESm1COV9ON0N4Mm1aTVQ0WkVfUFIzM05ld0hGalVCT1NjTHRhcnhOcERBcFFkdXhsLWtxeERKWkFDel9kYVdoUTNGYzE5TzVUMm5WNTh6TUpVYzRTR0laQ0tUZzhZNnZBdzluU1NlWWg4amNwOXBtaHJV?oc=5"
+ },
+ {
+  "fecha": "2026-11-21",
+  "medio": "El Periódico de Ceuta",
+  "titular": "Precio de la gasolina en Ceuta hoy, sábado 21 de noviembre",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXFoanZnRm03SGFUdEdmNkVPSmM0Y2g1LU9QU1d6R0pUWC1xSE1qYV9NbmR1b3JEVmppdThsSHBBdGdUS2dHaW1FNERFSWxZdUd3RkdVZW0yeFVCVTVyTWFRTy14YndHSzRZUFl5NlpXOWFZcW1TcXJDR1YzTkswOXlqckhwcm4xaENicg?oc=5"
+ },
+ {
+  "fecha": "2026-11-21",
+  "medio": "Red Uno",
+  "titular": "Vocero reconoce que los combustibles significan un alto costo para el Estado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFJQV2lYc3VlS1ZiMVRtMXZVdXdiejZZUGNBalVQM2pEOTlzanBzdnhCUWtreXpRczdGNENTR2d2REwtZm5hSXludk9zZ0FzcjdwYzF5NmhqNjFjTHk3MnpKNUo2aVZYRVVDWXJ6UzE1bmJKYWR6dFlQQUtmVHF0OTVuWGx1aS16cHhuVU1tNDZkekxDRE5TMDUxSWZzZ3FhMzF5US1HTXlibHFfT3E3eTMzYzJ6UFpsa3pHREViMW1td19B?oc=5"
+ },
+ {
   "fecha": "2026-11-20",
   "medio": "ABC",
   "titular": "El diésel y la gasolina se alejan de los máximos de 2026: el precio de llenar hoy el depósito",
@@ -15,30 +36,9 @@
  },
  {
   "fecha": "2026-11-20",
-  "medio": "Demócrata",
-  "titular": "El precio de la gasolina hoy, viernes 20 de noviembre: la gasolina 95 baja a 1,569 euros y el diésel, a 1,798",
+  "medio": "Mundo Petróleo",
+  "titular": "Nuevamente, igual que ocurrió la semana pasada, descienden los precios de la gasolina y del gasóleo: análisis semanal carburantes 20 noviembre 2026",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTVXZfOExocmY5UXlSalN6SGl2SHd0SXljcFNmekZVYTR2b3ZTU1FkenB5UVlCM3BwbkNzMEJhT3pIMXJrWUhKSHZfdWNrV1F6RjEzMnpISERnVU40LUo1OThRZnpMd1Q2dnZqOWV3aVdXUENOaHZMdC1kVU_SAYIBQVVfeXFMTUdFaVJnd3FxRHJ6Y1pON2UtLWx4bUNLVUpQWU5DSmkyOXFybWg4Wms3S3o3blIxTlk0RDF4LUFheE9OSXRSM0Zxd3MxVnA5OElDX2F4X1VDSEdMTlpHanRpdGhiQ1UzSEtjbGR5UjN1Wndlb2k3MmJ4aURxSUFFNm1rdw?oc=5"
- },
- {
-  "fecha": "2026-11-20",
-  "medio": "Infobae",
-  "titular": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 20 de noviembre",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3JFZFo1b0Jxc0YzX1FWOENFcC1BZ2VsVEJHVzNQcGF4ekR5blM4alJWTkhBSnFuNXZNWEstNW13SjJtaDBpN2xtdHV5bVVzRzZQUXV3VWV4VzlRdVdyTG1WNGh6V3M0Zl9hbHpxRTRHRmkxbFczOWc0dG1JWVdFSTZrYWRZWWFpRENRWXRBbjEyUllTOG9hbDRHekRlX2Fxc1VwcFI1SGt0Vk80bG1EOU1kWTJraVRJS0lTUnRWeGpjTUVGa21SQk51bGxJaGt5bzFPb3ZUWHdGZnM3OHdEZTJB0gH8AUFVX3lxTE83Uloxb182WkJhTV9rM3dWbmthNUNpcjFtdk1XOXhwNXVTLXI3R3cxU3BpcEhaUFBFYURFMmNnYm4xUG9nY3JXZ3BzX0xrbGFxOHoweVJTM2xnS0FzS2xWa3pqWFhveGplWEwtQ3VBVlFFeDgwYlJ3cFFldk5MZk9LVkdFSm14V1hvLTJWZXJXNzJ6Zk91N1F0MEhSNlo0czZiZ2g3SzNaVDVNcWgtVjg1Q3B1eVppU0JCRmw1YkFlVkNrdFBrZV85RDZUX0ZmTEQ3RlBkd3VraGctZlExelFfTC1LM25sdjJJSWtoTXhsMU9VdG1tcUdHZHBvQQ?oc=5"
- },
- {
-  "fecha": "2026-11-20",
-  "medio": "La Razón",
-  "titular": "Así es el truco del tornillo: la estafa en las gasolineras que podría hacerte pagar el combustible de otro conductor",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc1dTSEJHU2tnU05rc24wbFNHM1ZqMW9zdGxhdjZRT1pydk11SHpWWFZjRm00dWZjQVhQdmdmQ2FuVFVEVXVzN1dZbWNzYTF1cE1vWlBfMElidkRXZG05Q3hLc0ZKbl81ZUctaUlXdG96Y3Q1RFlkMVFxRkljM3UwblRRZkg5RnZPRUFDSEJEY28wOGdKdWUzdGo1Q2FFYzhwdUxOUVJpVHBaVUxfXy1UVGN6ekZ6UlVzM2dRRFlpZmJhc2pydzVueEkxbnVXTHZWMk9iOGVrY3o3N3FUV282aTA1Wi1weFdNdFRUc3pMTGjSAYQCQVVfeXFMTlBGd1N6bk4xUS1MRHI2OGlpZzlKcE5nZ3JCcWdWdFlkSXR5VEZwYWZ5dGpJQXBYODdYcFVYTFMzRW0wUDBsREgwTWJnNk9WOXBZZUF6dW1WUUhUTThlZ2lfVzJIeU9JVk9adktLNFJ3OUUyaWRWbnM2RHFmUzV2TGhhYU03bWYzT1FRdzllakF0aUhkak9vb2FTNHRLcjdnY0tDTWNBNllBT1d6ZkM2Um56TzNGQzFaODhsQ2tfMGJvSXVEX1FCaW9zcXRpWlM3WGdLSkpXT3Z3cjcyNG1JS2ZndmM1SzVkMnNFMW9hOUlicThJdUdnZ3pOa1VhbVY3WHA2SjM?oc=5"
- },
- {
-  "fecha": "2026-11-20",
-  "medio": "Zamora24horas",
-  "titular": "La gasolina y el diésel siguen bajando, pero llenar el depósito cuesta hasta 22 euros más",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenU1cmlEcEtzOU1PWlFnSTM2YUh2ZWt1bTExUGhUVnZ3WGZNZlN2Y3ZHSVZBRjlvRUQtb3M0YXJMSGZ4V3hXcmI5MHJpVFRObUhDQ3dSYi1Zd3dhbTVkQU5jeW5INW0yejZMYlVVYUU3Y2xmVlo3TUhjWlFhczc4bUtySGI0QW04TDI0OURxcnZQSmFDcmhRc01hbXhqVFk?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPR2gtS012Z1hiTDVuUmlxVHhsSjNaT3NRTG5MZzdPQzF5cWhFZkc0OThGZHVFRnJDM1lOUHRGaWZyV3dtbzRqLVNqR0RjV1J6SFUyam8wR0JMZGZCbUNuMFRvMUt6MjQ4OWZ5Z1hQSTR0OWs0TjVXcHpUNTJmWGpubkp3SkpQSW00TVo2cEotODJiLVR4YVFndl9sODFvTDE1Q1RkR1F0blU3R1dPTVltUnlJc0pkWE9fMEo2LXBlV1NudEQxdmtuRE5YaVFadUJZZDk1eDVNeEo4Zkp1cjNNSmZMRVNHMFAxNUF3R0tVYzJoV3ZYbUxzYmp6Q0l6TzJwMnBnZU9XWkNSUUVSWFZR?oc=5"
  }
 ]
