@@ -8,6 +8,20 @@
  },
  {
   "fecha": "2026-11-22",
+  "medio": "Híbridos y Eléctricos",
+  "titular": "Casi tres de cada cuatro conductores de coches eléctricos coinciden: el mayor freno del sector no es el precio, sino algo mucho más profundo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOemNvUnl1amZ3Q05OVGY1N1U1YTM3aWxuX0dScVFtcHBNbE9ZWU84TWdVVXd2cXNkdDd0bWgyMkhSMS1PNlNtN2ZIWDA4S3MyNng3NGZLYlRTbzhhdENVR3RJNjByWFpnZkZ1eDF2bXRsUmNrNEcwZXhsa0xNRTVUSDJWZlc4YTFLaEdsRzV0Nnc2NE96WmItck1yc0k4SnM5WE44bjh6Q2lqdkgyRE1GY3o2ZTdac1I2ejZXWDVjNG5weGo2S0lqYTZmVHV3WTRjb2czai1DbGhXaG0tdHdyMGVjN0RodUVLOGZXdDBVRFZiaHQ3VWlZX3NzU2RyVGk0VUZDYg?oc=5"
+ },
+ {
+  "fecha": "2026-11-22",
+  "medio": "Motor.es",
+  "titular": "Los coches eléctricos usados empiezan a venderse mejor, aunque Geely y Nio no quieren saber nada de ellos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGR1dFFRS3pieDJCblY1MjhpNDFuZHhTd1JfSkFKVHFWMzd0V24zc2FqSElQT3dSaWFlSVBvR2lKdWdFeWZLRlNOcWc2Ylozcy0wR2xLOEZhSXpJXzZ5Ym84RkxVXzdIeGZ2dC1MczhTSzkwZGZkTGZEemRIVHhDT3Z3YUE1MUVpcWZnWHRiUHBkaWU4?oc=5"
+ },
+ {
+  "fecha": "2026-11-22",
   "medio": "La Vanguardia",
   "titular": "El gran salto de China: humanoides, drones y coches eléctricos para reescribir la modernidad",
   "resumen": "",
@@ -26,19 +40,5 @@
   "titular": "Tesla sigue teniendo el coche eléctrico más vendido del mundo, pero China se queda con ocho de los diez primeros puestos",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVm1OMDFZbE5fcFk2dm5xNWZ5eWpkdkZfcExLbmVvNzhfSDBsd3dwYnRZQjFCUEFmYlFsdW9PbUkzd0pxM09JMVRHS2FXdjd6Y3BSOW1sLXVxdVhqb2JjVXpqS0hSYnhmSGdSQ3dpc1BGWUZYbVBLd1dET1V6Y28tMzAwaUtkTUMwcnZ6WWFTMXpIVThVYWhzQnFfSkVHWFhZQll4UnZxUDdVRzE5eUVCaEh1VkpwcTBUekE?oc=5"
- },
- {
-  "fecha": "2026-11-21",
-  "medio": "La Voz de Galicia",
-  "titular": "Las ayudas para comprar coches eléctricos ya se han agotado",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0xpc3VSc0x5SldudF9zZzdaelhiMTQxOVcwdlVtYzBlSlhqQ0d1clF3N1J6MzFaM2ZhTEtzSVhxOEEtbTFwdkxKR0tKZkc4ZGxyNzZsalZ5VGtsdHJ2bkJQTUptTUNhaE91bWVyX1N0Q1JTYnBnSGVfZEJwcllhZU9sUG95UjFmVEd1TjBnT1FiWmdYVXlFaWpCT3RzQl8xLXl5WE5FQ0N3bUZwREZtVEJsQnFPOGlfY3BLWmVnSjHSAdwBQVVfeXFMT3RXOU4zN1hLanRhdTBGS1JOa1EzRzQ3b1FhcXlqc1o4SDQ0aG9LT3dLUTBGdWplLWt1clRCQUo4YlkyR2VNVmR4elVYcW5JSjFSbHFYZXBNdGdyMFdxTUNnMWZWXzRMdkVzZXJhN0Z5em96alE5bnBqZF9MSkhZWFZIQjB4d0Jxa0NVWS1pcWdfTm5MM3laVGhwN3NRaUJ5dU5TMFhKY0hmQklyV3gtSDJrNFlFSFRKcGZjUWdVVEZtTGFvUEFjZzNRZUUzc3RhTkxad0ZYMTREODFsNg?oc=5"
- },
- {
-  "fecha": "2026-11-21",
-  "medio": "Xataka",
-  "titular": "Una empresa quería saber cuánto duran las baterías de los coches eléctricos y de paso nos ha dado una enorme alegría",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDRyVVY5d0ZYYk5NNGNjdGRSM3pBaFByQmFPSENLTUFsWFBtYVZEWDc3SDMyNi1vVE9ia0dDTWtxdWE4TndOTEs3aUFHWENsd0xkS09YZ3JtRHBuUFZRdDdrZzZGQVVoYkRLMllKcDlMa3ozelVXWFNWUTR0bTRXTmtYX2t3anBSUGxseGdVNHN1X2VvNExHSmtzWXdtR1VTWlpWZ2Vtb0VMSTNoVW9VYkQwVWpQLVRhV0doMTBBWi16Z2_SAcgBQVVfeXFMTlY0Vno2b2ktRmkxV1B1OHFGcEhqRDQyMXN6bXRIUDZGaEJTang5dE1lR1VJVDZFWmU3dURzZ2NQc2luc292eHRVaTlUV3BGenBCSGt0V2MwM0JTRF93S3JWWm9lRkZMSUIwRDlQX1VBaHoxbUVvd1owNnE1V19aei1NMVNCRWFBV1NackZqMGwzWERLYUxmY0ZQbGVHbEtQWjJtSVdQTHJwMmVyVF9EWlFhcUFGdTlmRnhkMklZNGtDZ25CNHlGb0c?oc=5"
  }
 ]
