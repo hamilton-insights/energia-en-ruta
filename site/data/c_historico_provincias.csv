@@ -27540,39 +27540,39 @@ fecha,provincia,cod_prov,ccaa,combustible,precio_medio
 2026-11-22,Albacete,02,Castilla-La Mancha,gasolina_98,1.745
 2026-11-22,Alicante,03,C. Valenciana,diesel,1.782
 2026-11-22,Alicante,03,C. Valenciana,diesel_premium,1.89
-2026-11-22,Alicante,03,C. Valenciana,gasolina_95,1.574
+2026-11-22,Alicante,03,C. Valenciana,gasolina_95,1.575
 2026-11-22,Alicante,03,C. Valenciana,gasolina_98,1.778
 2026-11-22,Almería,04,Andalucía,diesel,1.777
 2026-11-22,Almería,04,Andalucía,diesel_premium,1.893
 2026-11-22,Almería,04,Andalucía,gasolina_95,1.528
 2026-11-22,Almería,04,Andalucía,gasolina_98,1.763
 2026-11-22,Asturias,33,Asturias,diesel,1.841
-2026-11-22,Asturias,33,Asturias,diesel_premium,1.917
+2026-11-22,Asturias,33,Asturias,diesel_premium,1.916
 2026-11-22,Asturias,33,Asturias,gasolina_95,1.616
 2026-11-22,Asturias,33,Asturias,gasolina_98,1.772
-2026-11-22,Badajoz,06,Extremadura,diesel,1.816
+2026-11-22,Badajoz,06,Extremadura,diesel,1.817
 2026-11-22,Badajoz,06,Extremadura,diesel_premium,1.914
 2026-11-22,Badajoz,06,Extremadura,gasolina_95,1.571
 2026-11-22,Badajoz,06,Extremadura,gasolina_98,1.78
 2026-11-22,Barcelona,08,Catalunya,diesel,1.743
 2026-11-22,Barcelona,08,Catalunya,diesel_premium,1.832
-2026-11-22,Barcelona,08,Catalunya,gasolina_95,1.515
+2026-11-22,Barcelona,08,Catalunya,gasolina_95,1.516
 2026-11-22,Barcelona,08,Catalunya,gasolina_98,1.747
-2026-11-22,Bizkaia,48,País Vasco,diesel,1.794
+2026-11-22,Bizkaia,48,País Vasco,diesel,1.795
 2026-11-22,Bizkaia,48,País Vasco,diesel_premium,1.826
-2026-11-22,Bizkaia,48,País Vasco,gasolina_95,1.546
+2026-11-22,Bizkaia,48,País Vasco,gasolina_95,1.547
 2026-11-22,Bizkaia,48,País Vasco,gasolina_98,1.744
 2026-11-22,Burgos,09,Castilla y León,diesel,1.786
-2026-11-22,Burgos,09,Castilla y León,diesel_premium,1.856
-2026-11-22,Burgos,09,Castilla y León,gasolina_95,1.556
+2026-11-22,Burgos,09,Castilla y León,diesel_premium,1.857
+2026-11-22,Burgos,09,Castilla y León,gasolina_95,1.557
 2026-11-22,Burgos,09,Castilla y León,gasolina_98,1.779
-2026-11-22,Cantabria,39,Cantabria,diesel,1.806
-2026-11-22,Cantabria,39,Cantabria,diesel_premium,1.878
+2026-11-22,Cantabria,39,Cantabria,diesel,1.807
+2026-11-22,Cantabria,39,Cantabria,diesel_premium,1.879
 2026-11-22,Cantabria,39,Cantabria,gasolina_95,1.574
 2026-11-22,Cantabria,39,Cantabria,gasolina_98,1.78
 2026-11-22,Castellón,12,C. Valenciana,diesel,1.769
 2026-11-22,Castellón,12,C. Valenciana,diesel_premium,1.887
-2026-11-22,Castellón,12,C. Valenciana,gasolina_95,1.562
+2026-11-22,Castellón,12,C. Valenciana,gasolina_95,1.563
 2026-11-22,Castellón,12,C. Valenciana,gasolina_98,1.782
 2026-11-22,Ceuta,51,Ceuta,diesel,1.72
 2026-11-22,Ceuta,51,Ceuta,diesel_premium,1.782
@@ -27584,7 +27584,7 @@ fecha,provincia,cod_prov,ccaa,combustible,precio_medio
 2026-11-22,Ciudad Real,13,Castilla-La Mancha,gasolina_98,1.725
 2026-11-22,Cuenca,16,Castilla-La Mancha,diesel,1.792
 2026-11-22,Cuenca,16,Castilla-La Mancha,diesel_premium,1.912
-2026-11-22,Cuenca,16,Castilla-La Mancha,gasolina_95,1.566
+2026-11-22,Cuenca,16,Castilla-La Mancha,gasolina_95,1.567
 2026-11-22,Cuenca,16,Castilla-La Mancha,gasolina_98,1.752
 2026-11-22,Cáceres,10,Extremadura,diesel,1.83
 2026-11-22,Cáceres,10,Extremadura,diesel_premium,1.925
@@ -27594,11 +27594,11 @@ fecha,provincia,cod_prov,ccaa,combustible,precio_medio
 2026-11-22,Cádiz,11,Andalucía,diesel_premium,1.864
 2026-11-22,Cádiz,11,Andalucía,gasolina_95,1.538
 2026-11-22,Cádiz,11,Andalucía,gasolina_98,1.72
-2026-11-22,Córdoba,14,Andalucía,diesel,1.826
+2026-11-22,Córdoba,14,Andalucía,diesel,1.827
 2026-11-22,Córdoba,14,Andalucía,diesel_premium,1.907
-2026-11-22,Córdoba,14,Andalucía,gasolina_95,1.551
+2026-11-22,Córdoba,14,Andalucía,gasolina_95,1.552
 2026-11-22,Córdoba,14,Andalucía,gasolina_98,1.74
-2026-11-22,Gipuzkoa,20,País Vasco,diesel,1.813
+2026-11-22,Gipuzkoa,20,País Vasco,diesel,1.814
 2026-11-22,Gipuzkoa,20,País Vasco,diesel_premium,1.9
 2026-11-22,Gipuzkoa,20,País Vasco,gasolina_95,1.577
 2026-11-22,Gipuzkoa,20,País Vasco,gasolina_98,1.774
@@ -27632,25 +27632,25 @@ fecha,provincia,cod_prov,ccaa,combustible,precio_medio
 2026-11-22,Jaén,23,Andalucía,gasolina_98,1.754
 2026-11-22,La Rioja,26,La Rioja,diesel,1.786
 2026-11-22,La Rioja,26,La Rioja,diesel_premium,1.889
-2026-11-22,La Rioja,26,La Rioja,gasolina_95,1.531
+2026-11-22,La Rioja,26,La Rioja,gasolina_95,1.532
 2026-11-22,La Rioja,26,La Rioja,gasolina_98,1.726
 2026-11-22,Las Palmas,35,Canarias,diesel,1.638
 2026-11-22,Las Palmas,35,Canarias,diesel_premium,1.755
 2026-11-22,Las Palmas,35,Canarias,gasolina_95,1.457
 2026-11-22,Las Palmas,35,Canarias,gasolina_98,1.594
-2026-11-22,León,24,Castilla y León,diesel,1.796
+2026-11-22,León,24,Castilla y León,diesel,1.797
 2026-11-22,León,24,Castilla y León,diesel_premium,1.874
-2026-11-22,León,24,Castilla y León,gasolina_95,1.553
+2026-11-22,León,24,Castilla y León,gasolina_95,1.554
 2026-11-22,León,24,Castilla y León,gasolina_98,1.726
 2026-11-22,Lleida,25,Catalunya,diesel,1.747
 2026-11-22,Lleida,25,Catalunya,diesel_premium,1.849
-2026-11-22,Lleida,25,Catalunya,gasolina_95,1.499
+2026-11-22,Lleida,25,Catalunya,gasolina_95,1.5
 2026-11-22,Lleida,25,Catalunya,gasolina_98,1.718
-2026-11-22,Lugo,27,Galicia,diesel,1.84
+2026-11-22,Lugo,27,Galicia,diesel,1.841
 2026-11-22,Lugo,27,Galicia,diesel_premium,1.927
 2026-11-22,Lugo,27,Galicia,gasolina_95,1.571
 2026-11-22,Lugo,27,Galicia,gasolina_98,1.729
-2026-11-22,Madrid,28,Madrid,diesel,1.793
+2026-11-22,Madrid,28,Madrid,diesel,1.794
 2026-11-22,Madrid,28,Madrid,diesel_premium,1.871
 2026-11-22,Madrid,28,Madrid,gasolina_95,1.556
 2026-11-22,Madrid,28,Madrid,gasolina_98,1.763
@@ -27661,7 +27661,7 @@ fecha,provincia,cod_prov,ccaa,combustible,precio_medio
 2026-11-22,Murcia,30,Murcia,diesel_premium,1.835
 2026-11-22,Murcia,30,Murcia,gasolina_95,1.54
 2026-11-22,Murcia,30,Murcia,gasolina_98,1.712
-2026-11-22,Málaga,29,Andalucía,diesel,1.826
+2026-11-22,Málaga,29,Andalucía,diesel,1.827
 2026-11-22,Málaga,29,Andalucía,diesel_premium,1.92
 2026-11-22,Málaga,29,Andalucía,gasolina_95,1.6
 2026-11-22,Málaga,29,Andalucía,gasolina_98,1.762
@@ -27671,25 +27671,25 @@ fecha,provincia,cod_prov,ccaa,combustible,precio_medio
 2026-11-22,Navarra,31,Navarra,gasolina_98,1.737
 2026-11-22,Ourense,32,Galicia,diesel,1.817
 2026-11-22,Ourense,32,Galicia,diesel_premium,1.904
-2026-11-22,Ourense,32,Galicia,gasolina_95,1.551
+2026-11-22,Ourense,32,Galicia,gasolina_95,1.552
 2026-11-22,Ourense,32,Galicia,gasolina_98,1.743
 2026-11-22,Palencia,34,Castilla y León,diesel,1.832
 2026-11-22,Palencia,34,Castilla y León,diesel_premium,1.918
-2026-11-22,Palencia,34,Castilla y León,gasolina_95,1.556
+2026-11-22,Palencia,34,Castilla y León,gasolina_95,1.557
 2026-11-22,Palencia,34,Castilla y León,gasolina_98,1.727
-2026-11-22,Pontevedra,36,Galicia,diesel,1.795
+2026-11-22,Pontevedra,36,Galicia,diesel,1.796
 2026-11-22,Pontevedra,36,Galicia,diesel_premium,1.897
-2026-11-22,Pontevedra,36,Galicia,gasolina_95,1.541
+2026-11-22,Pontevedra,36,Galicia,gasolina_95,1.542
 2026-11-22,Pontevedra,36,Galicia,gasolina_98,1.728
 2026-11-22,Salamanca,37,Castilla y León,diesel,1.828
 2026-11-22,Salamanca,37,Castilla y León,diesel_premium,1.927
-2026-11-22,Salamanca,37,Castilla y León,gasolina_95,1.557
+2026-11-22,Salamanca,37,Castilla y León,gasolina_95,1.558
 2026-11-22,Salamanca,37,Castilla y León,gasolina_98,1.735
 2026-11-22,Santa Cruz de Tenerife,38,Canarias,diesel,1.707
 2026-11-22,Santa Cruz de Tenerife,38,Canarias,diesel_premium,1.813
 2026-11-22,Santa Cruz de Tenerife,38,Canarias,gasolina_95,1.52
 2026-11-22,Santa Cruz de Tenerife,38,Canarias,gasolina_98,1.642
-2026-11-22,Segovia,40,Castilla y León,diesel,1.783
+2026-11-22,Segovia,40,Castilla y León,diesel,1.784
 2026-11-22,Segovia,40,Castilla y León,diesel_premium,1.871
 2026-11-22,Segovia,40,Castilla y León,gasolina_95,1.547
 2026-11-22,Segovia,40,Castilla y León,gasolina_98,1.761
@@ -27697,41 +27697,41 @@ fecha,provincia,cod_prov,ccaa,combustible,precio_medio
 2026-11-22,Sevilla,41,Andalucía,diesel_premium,1.894
 2026-11-22,Sevilla,41,Andalucía,gasolina_95,1.561
 2026-11-22,Sevilla,41,Andalucía,gasolina_98,1.796
-2026-11-22,Soria,42,Castilla y León,diesel,1.767
+2026-11-22,Soria,42,Castilla y León,diesel,1.768
 2026-11-22,Soria,42,Castilla y León,diesel_premium,1.854
 2026-11-22,Soria,42,Castilla y León,gasolina_95,1.53
 2026-11-22,Soria,42,Castilla y León,gasolina_98,1.715
 2026-11-22,Tarragona,43,Catalunya,diesel,1.752
 2026-11-22,Tarragona,43,Catalunya,diesel_premium,1.859
-2026-11-22,Tarragona,43,Catalunya,gasolina_95,1.518
+2026-11-22,Tarragona,43,Catalunya,gasolina_95,1.519
 2026-11-22,Tarragona,43,Catalunya,gasolina_98,1.719
 2026-11-22,Teruel,44,Aragón,diesel,1.797
 2026-11-22,Teruel,44,Aragón,diesel_premium,1.93
-2026-11-22,Teruel,44,Aragón,gasolina_95,1.538
+2026-11-22,Teruel,44,Aragón,gasolina_95,1.539
 2026-11-22,Teruel,44,Aragón,gasolina_98,1.714
 2026-11-22,Toledo,45,Castilla-La Mancha,diesel,1.804
 2026-11-22,Toledo,45,Castilla-La Mancha,diesel_premium,1.893
-2026-11-22,Toledo,45,Castilla-La Mancha,gasolina_95,1.56
+2026-11-22,Toledo,45,Castilla-La Mancha,gasolina_95,1.561
 2026-11-22,Toledo,45,Castilla-La Mancha,gasolina_98,1.77
-2026-11-22,Valencia,46,C. Valenciana,diesel,1.742
+2026-11-22,Valencia,46,C. Valenciana,diesel,1.743
 2026-11-22,Valencia,46,C. Valenciana,diesel_premium,1.859
 2026-11-22,Valencia,46,C. Valenciana,gasolina_95,1.538
 2026-11-22,Valencia,46,C. Valenciana,gasolina_98,1.776
 2026-11-22,Valladolid,47,Castilla y León,diesel,1.781
 2026-11-22,Valladolid,47,Castilla y León,diesel_premium,1.873
-2026-11-22,Valladolid,47,Castilla y León,gasolina_95,1.556
+2026-11-22,Valladolid,47,Castilla y León,gasolina_95,1.557
 2026-11-22,Valladolid,47,Castilla y León,gasolina_98,1.789
 2026-11-22,Zamora,49,Castilla y León,diesel,1.779
-2026-11-22,Zamora,49,Castilla y León,diesel_premium,1.891
-2026-11-22,Zamora,49,Castilla y León,gasolina_95,1.562
+2026-11-22,Zamora,49,Castilla y León,diesel_premium,1.89
+2026-11-22,Zamora,49,Castilla y León,gasolina_95,1.563
 2026-11-22,Zamora,49,Castilla y León,gasolina_98,1.742
 2026-11-22,Zaragoza,50,Aragón,diesel,1.773
 2026-11-22,Zaragoza,50,Aragón,diesel_premium,1.857
 2026-11-22,Zaragoza,50,Aragón,gasolina_95,1.525
 2026-11-22,Zaragoza,50,Aragón,gasolina_98,1.722
-2026-11-22,Álava,01,País Vasco,diesel,1.8
+2026-11-22,Álava,01,País Vasco,diesel,1.801
 2026-11-22,Álava,01,País Vasco,diesel_premium,1.898
-2026-11-22,Álava,01,País Vasco,gasolina_95,1.564
+2026-11-22,Álava,01,País Vasco,gasolina_95,1.565
 2026-11-22,Álava,01,País Vasco,gasolina_98,1.743
 2026-11-22,Ávila,05,Castilla y León,diesel,1.821
 2026-11-22,Ávila,05,Castilla y León,diesel_premium,1.924
