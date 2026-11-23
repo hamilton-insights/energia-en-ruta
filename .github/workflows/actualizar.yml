@@ -7,7 +7,7 @@ on:
     - cron: "37 6 * * *"    # 07:37 Madrid (invierno)
     - cron: "13 8 * * *"    # 09:13 Madrid (invierno), respaldo
     - cron: "41 11 * * *"   # 12:41 Madrid (invierno), respaldo
-  workflow_dispatch: {}     # botón "Run workflow" para lanzarlo a mano
+  workflow_dispatch: {}     # botón "Run workflow" (y la llamada diaria de cron-job.org)
   push:
     branches: [main]        # al cambiar la web, se vuelve a publicar
 
@@ -52,13 +52,13 @@ jobs:
             git push
           fi
 
-  publicar:
+  # Preparar la web y publicarla van en dos pasos separados: si se hacen en el
+  # mismo, GitHub a veces aún no "ve" el paquete recién subido y la publicación
+  # falla con "No artifacts named github-pages were found".
+  preparar:
     needs: actualizar
     if: always() && (needs.actualizar.result == 'success' || needs.actualizar.result == 'skipped')
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -67,5 +67,15 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+
+  publicar:
+    needs: preparar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Esperar unos segundos a que GitHub registre el paquete
+        run: sleep 15
       - id: deploy
         uses: actions/deploy-pages@v4
