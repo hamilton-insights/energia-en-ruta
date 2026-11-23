@@ -70,6 +70,9 @@ jobs:
 
   publicar:
     needs: preparar
+    # always() hace falta: si "actualizar" se omitió (al guardar un cambio),
+    # GitHub saltaría también este paso aunque "preparar" haya ido bien.
+    if: always() && needs.preparar.result == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
