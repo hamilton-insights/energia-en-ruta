@@ -1,6 +1,13 @@
 [
  {
   "fecha": "2026-11-25",
+  "medio": "El Mundo",
+  "titular": "El precio de la gasolina hoy, miércoles 25 de noviembre de 2026 en Madrid: las gasolineras más baratas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83Ymt2dnFYZ1hKTjlGREVrUjRPZXZ3bEw2TWhpV1lSQy1zN0ZJOUVZUVplR01ET2Y4RS03WTBNcnFGZTQyMTZZVnpZTC1uWlpaVlIyV2VsSmpwckplX2xSZTNkMzh1czAya002S2dWaWZGX3RMYVMw0gF3QVVfeXFMTmhXUXlHMjR4LXRCZ1BxUzlOTENmcTNhd0JLV2FKMWNfRDI0UTIxYzBJZ2lTWV95eUswQmdxNERBMFBQWUdfQm9GejJ4WnMxM1JwdU5qZllqZ0VGdzc3YVNJemp0MmVDbFh0LTk4ci1iWDZiU3dSNE0?oc=5"
+ },
+ {
+  "fecha": "2026-11-25",
   "medio": "Infobae",
   "titular": "El precio de la gasolina en Madrid, Barcelona y otras ciudades para hoy",
   "resumen": "",
@@ -8,37 +15,30 @@
  },
  {
   "fecha": "2026-11-25",
-  "medio": "Facebook",
-  "titular": "Así amanecieron los precios de los carburantes en distintas ciudades de España",
+  "medio": "Telemadrid",
+  "titular": "El precio de la gasolina cae un 12,3% en el último mes y sigue en mínimos desde julio",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORGtCUnNkQ2xkTGF0SXo1aXpaM2NfUU9QOVA5UnNHaGdhTlVDdTdQT21yWkt0bUQ0OWVlcEdmV3h3MVhPNkQxLWpkY2hhZkhwQUJMeWFyWlU2Q3FPQUQ1ZGN6S1B3WUUxTm5WbmhMQlB3T05kdWc0V3Q5bUtsbWN2U3NNYVRaRDFjV3RFSHNQejBEMExUeVUtaS1rbEZZNzI5YjJWNENMeEtNV3ctUDZDam1vTmFEZ01JRmtqT2k5ZGwwTmpHcUpqVVFlWGxfcHNfRG9IaDJwdGlfdE5NQkJKb05GUkxNdkk?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcnVQOWswb3V1V0dmTW1CWnZTdm1famhnUTlVQ3FSSXV3WXk0amxOZmhpS3RidlgwV3JOaV94eDRLbnRkV3pGWkZ2ejhoakhCenJIR1RrMG01U2ROME5Bal91NjdsMEFzY25Qc3VTUTdDcFRicnQtMmxjU05wT3p6YjM1NEhXYzNIdEZB0gGQAUFVX3lxTFBiSEJ2ZXIwWWlwd2EtbGt5YTY4TWpCTXkyTktaaXJEa1ctOEg5OHJyRkZ5dkw0VDhfTFJPaWdwNHFtSkRBU1NURFdadGp0THYyZWJZMFE5dDFYazRWZVF3cUV0bU9HdEFwU0dVbWlKNURPbEpsaWJqd0pKVkR6Q0lfa3BCcEJOcTVSa1RpNnNfSw?oc=5"
  },
  {
   "fecha": "2026-11-25",
-  "medio": "Infobae",
-  "titular": "La gasolina más barata y más cara de Lima este 24 de noviembre",
+  "medio": "autobild.es",
+  "titular": "Alemania, harta del incremento de la gasolina y el diésel topa los precios máximos, que se fijarán diariamente al mediodía según una fórmula establecida",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVVCMDJTeHRaYl9KUE0xdzBGSlc4WTl3SWNPSUQ3a1o2OHhQcnVpeWQzLWwtVE5oSWZuREgyd2ZEUVJ4LWh0bkxocmQ4R2Y3d0ctRDRBSm1tUWJoOHU2cURDaFhJUmF0LU8zMEd3ZzMxUmxScDVOQUlLWFE4dUxEMm1FZ0xNLTZONHhQZUFQc1NtUUFTc0ZObXF2SW8wNU1sRm5nSzN30gHAAUFVX3lxTE55ZjlScURBdVBObWI5NXlscFdZSlBOODJzVFJhUW5TdHhYR0FtYUZyUS1vUWt3MEExVkoxWV92WlVxSFlRUm5pRGZVWC11TkNPZ1dWck56TmlINGlYa3lxUEljNDVsamVGYXNCcDd0SVFuNUh3MzFBTm9lNTJjdS0zT3k0WkU3ejdZOHpiWFMzdG14NHhFYVktdHQxM3VzVU9aaVotYW1QaGtXR1hTaDVVelFHLUJIVk8xaGxobERZaA?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaEl1U19kU3BNblJyU1VSRmRLa1RxZVQzeGg3WHBuOGotZkVQUFh1OVp4TGsyMTBVMWFXNWlqdlJSUmVXdnZQdzZfRVhPMV9fNWkyQUpqWHBlbXcyR0dQTVNFQVpBVFRTQUFpYmxwWjkyS1RJRlpXNEYtcnVVR2xETDRadHV4TVZhbnF0UHpEdWpWbjBWcGFEa3gwTGttNWNHNWhwTlM2czN4Mm1HTVVzWmZZX0lPOW5EV2FjNUkyUkVFNWR2UEZ0dFFGNUhqZkoxODg5M2dZeHZaVlg2T2E4MEx5U0lGN3FOc2FiMjNDR3d3RUY1RmpCUWZFUXgxTWtYTy1mQXJoWnM?oc=5"
  },
  {
   "fecha": "2026-11-25",
-  "medio": "alertachiapas.com",
-  "titular": "Tapachula: gasolina regular desde 22.95; ve el mapa por estación",
+  "medio": "OkDiario",
+  "titular": "Se insta a los españoles a repostar: la gasolina y el diésel se desploman y alcanzan sus precios más bajos ...",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1VSWUs4VG9yckZ0UW1SZ1F0UlFjMmxqa1dhcHU2NkpXcWlmYlRDNUM3dTM1MDNCZHJfeXQyYzJENHl6RHp3eGowc1doRXVuZnBmOFlETDNOUlRpQ0FldlFzRUVkY0tCOWhwdEoxdTlmcldMVTJCWkRQRjBkNE5oZHByUXNYSEVYVDJjcnhNYVY?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUtiaEtTUEk1SzlPWHQ1SWtkS3hteEx6cGM5aHE5RTlELTdlM3Q4eVdGODFGZW1iTTN1MzVhOW5ZWmItaFM5SlYwMmpzbm12TkxoRnN4V0poS3EtU0VxN1l3VlBJemszUHNxbzBDWXJVSUQzbld6MnlxWTVQZHRqYTkxUWQ1NENPOW9zN2V1ZXNOUUhSMUYyc3NhRG9fa1Fhb0pjTnBxQzNoYXM1Qjh0TlhYUVJJRVNlc2FoSjAzTndpdUF1NDcw0gHMAUFVX3lxTE5QZjdMa3NrUTZnUEJzcFhqdU5SSi14VnQwcy1wckIwU3dwRHpxU2tfVTZLYkM0cHJaRl9nWXR1ZVpJR284eUtIUm1mNmF0YkVRZ0NOTEJLT2lGU2Q2T3gtYTJRR2huQ0ZRMWJfOVNjVjE3dGVQeDhXWmR1UlU1UThZdlVYYzVrMjZiSWRtX3praUJib3ZIdHhKcXllT2JNYU5xQVZyaUVmcVlOcVVHb2ZHZEJYUG9RUnFVcEJMLXBhNGxhaE5kRUdVeFJZQQ?oc=5"
  },
  {
-  "fecha": "2026-11-24",
-  "medio": "Madrid Norte 24 horas",
-  "titular": "Gasolina y diésel más baratos hoy en el norte de Madrid: martes 10 de junio",
+  "fecha": "2026-11-25",
+  "medio": "ENCLM",
+  "titular": "El precio del gasóleo agrícola (B) baja a 1,503 €/litro pero sigue un 56 % más caro que antes de la guerra",
   "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGhoN0VJN3VLUUFrSFpuMl9kNEthaEN4Qk02Q25hQmFCRFk1YmM5Q1hNbjBTR3pIdF9maUdsbjN6NUtZZURSTHNzTGV4elRQTFRuMDJxWDh1cGhEanVRWmdCOWpxSm52ZF9NVWttSWtDQlVfNVBSSW1WbzBEYzZXa2hfYmFJTXQ3eHVVaGZIRnFibkZpQzgxYmtkN1NXLWNpVlRScjJXOE9lN0pkbEVxb2t0blpreU8wQzdHM1RzMHZibno3azJkczln0gHPAUFVX3lxTE00S0otb2E4RVV0aTRjS0NWX01TWFRzX19MT0VyUzJOOGRUbmJzbS01R0dMSm1ZeThxcVUyMnQ1aXBuaEdhYjhXVTFxSldoOWVsdzVtZU16VmdSdHAyVW05VkdKdE1DaTBxM05GNWdjWU40TEt4ejNIQUM0RTlXNmZ3Z2FYSG8zQXVrNTRNY3oxa1FIVHdNdkV6OFlMMTd1T0JzdndoTzFZNmJpRVlabU5HS1RRaDVLZXhudXFfN3ZnYnFMY3hlQzl0c0JpS3J6dw?oc=5"
- },
- {
-  "fecha": "2026-11-24",
-  "medio": "El Economista",
-  "titular": "Alemania dice basta al encarecimiento de los carburantes y topa el precio de la gasolina: \"Es una intervención de crisis a corto plazo\"",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNS0VyS2I1VnVEZGx6OUtfUlZmU2U0dTV2dk9icWgwR1doYWdBZW1rYlJDdlNHTk8tT05aQXFfWHpWdzg5YnBxRkRQNzBHMmRYa1o5QnV6aFFzVFYzZUxNOERGS1kzZFZQYnFtbnBOV3JKN0l5RGxJNGF2OElpN004NG81dG0teW93cnEwV0VJcWVqb0dDYU1rUXQzeVl3XzFuVkgwc2doSDVTWWt0alpJU3B0SHNEbGVTMG1ROHVsRUU5UUx4WHE3RGN2Qm01eFFSXzRHbl9IU1FGQzVfaG9tQXdmRXNzdmcteWZGb0VONE9OS0hfMlpjZjZ6bkFnY2NMRDdWSzduTVBGSU1ndFZWalN2S0EtbmFjcHpsczhFOHJXODTSAY4CQVVfeXFMT0RxYmptTTVyS1ZHT3F2R1BFTnZEWER6c3hqcHNWSk9SWHFQZEtFeFVBSV91cF9rZFptRWxHQmNlRkY5UVpaNjA0RGZVSHdhdFQ4aDJMVUZGZUIxdHQ0ZHRCcm03cVJ2TlNFUGxZUDVGOURIZDhzR29KQVVsT0ZtWjBLXzlqa1R6MVVFV3VZUXMzb09OdzlGeU9FNG50NmJaRWpmenplMVVnZW1PT0xGaS1FR2gzZEEwaFV5MWVFTnFyNUlHSkktU2VZd1JUenlXTXd0R1JUMXVSc3ZnVTNubXdyb05wUEtMaHNZTFhDeUlISl9HcDVXZkV2NjB6VUpoV01MSmR6Y09mdURJZndR?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZDJtTURnZ0xhc21JWWl3NjJLdWtDd2tZTkNnSWJGeU1VUW5XbkV1cGJlUkhlMXdFLWhWZFpjNWFrY3JXX1ZUYV96bElvajZxV0RfRzNCaVF3bjB6MWxfYXo5b1BKVW9zbWczcElZRWxYQ3RJS250bElmNjhoOWhkaEwxSDNNc1prUV9EaUZ1UnpwS0lfcEhPbk8yUHRrTVQ3XzdNRFR3SGg2RV95UklfdzNxZFkza3dRRzd3dG9HUzZ5NWFxbnFydzNzZmNnTnU2NmQya3ZqZnhuYzQtYW9KVDhQUUoxaml6eG5RWXNDbFBYbUd5WFhVcVVR?oc=5"
  }
 ]
