@@ -1,5 +1,12 @@
 [
  {
+  "fecha": "2026-11-28",
+  "medio": "El Diario Montañés",
+  "titular": "El aumento de la oferta mundial de petróleo deja la gasolina en 1,3 euros en los surtidores Cántabros",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVhORVdMX1ZqVnlROHQ1SktvTklqa1U0bmQ3Vm9PRFNWQmxNT3ZONFFaRE5tMlRtdHdIT2Exal9uSHphdWlubzdpbW1BZlNoSW9oMW1IZG9Gb3EyMnpnT2ZUcnVXTmU2ZWN2TEZQeTBKb3NaRnBPT3BHWDhvSnJRcEpVNzR6dldGOHYtMlpBYzAwcU03Z095aVpieGhSTHpyd0RHN0RpYjJZYVdlNE9Eb055eGZORms?oc=5"
+ },
+ {
   "fecha": "2026-11-27",
   "medio": "Motor EL PAÍS",
   "titular": "Ya es oficial: esto es lo que pasará con el precio de la gasolina y el diésel a partir del 1 de diciembre",
@@ -22,23 +29,16 @@
  },
  {
   "fecha": "2026-11-27",
+  "medio": "Canarias7",
+  "titular": "Las gasolineras más económicas de Las Palmas este viernes: precios de gasolina y diésel",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnhpdm93Nnp6SEpqWUpzY2pZMXlteGg0NW5PNmV0d2JFZXk5UXhuZ3luSkpra3ZkNVJvMDhxLVpvcEVVZ203NEo4Y19CVGtWVzFLRjZsZVE0TXN6MHBCYTVGR190a0hqQTZXcWhFMlhGNlhYUFk5dVRKcWlMeVk2ckkzWmZ0b094TUVQbzhyMlBmWGV6V3pmTEVEcGtqZVNKakZzcXlqUTJ2U0wtNDZxUmZ1bFRpTTR0VVhCSllvOWItc2VvR0VwemZaSzVhWElleEZQY2RR0gHbAUFVX3lxTE9NWV9VaWxQcEtCb2FDa2tvSk52OUUtRm05bDZOdHp5LWw4UTJwREIzTENrb1hmVzY2OGtrSnlETHJaNTlwQUtWcDVFQng0MkJLSml4TWZwUEdQbkM5cjVwSW9HbmhDUzFqbXdUeEpBSGtaTllMemJKMGhuXzNROUVMOXVIempGbG9yMmxOS3JGZVFvNjh0Rjh6d1FrNjNXRTk3dmx3Mlhyd2hNRVVRVzI4cWl4cEk5dTYyOWJ2WXhFbW84V3pZdDFHWEUxMkFvZ0lpSHhUbFR2MVhzNA?oc=5"
+ },
+ {
+  "fecha": "2026-11-27",
   "medio": "El Correo",
   "titular": "La gasolina vuelve a los precios previos a la guerra mientras el diésel sigue un 20% más caro",
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzktV01nVC1WdVdVa0luNFNITTV1SGhoQ1RnZzNOeFJxYjlqU28ySllfelB2cDlFemxZRGxBMl9jajV5eC05Qmw1VVZickdSWUotaklOQXA4RTh4VEludU5yWFBSYUNEVmVDbXlwSjY0Y1BpcnAwTE1zaDItdDg2OVJpNlZYU2FZQnZkclZTS2kwQ2VkVjlYLWZhdmI4ZFVYaEpMY3lOS3g3U0t1QWNj0gG0AUFVX3lxTE5zN0lGMkNVSVFrRl91aEhtbWhEbWN2QVdsSkFCcDh6UmtCazl2V3JuVkx4QjJycHd5a2dmSU1LWnIyTVM0Q3BPUXFJN3dhOFlfU3pjLWx2MWJOZDNqUkRzR3o0MXR0NGFnbGFta2JZZXV5SGZnVTViWFRTdmEtRm9wUVlrelB2VHZCUVZwOFFJRy16LUE2aGtIZE1qRHg4OUowVWswUWY1NXlkdzJrQjBVTFFkUg?oc=5"
- },
- {
-  "fecha": "2026-11-27",
-  "medio": "Canarias7",
-  "titular": "Las gasolineras más económicas de Las Palmas este viernes: precios de gasolina y diésel",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTVlfVWlsUHBLQm9hQ2trb0pOdjlFLUZtOWw2TnR6eS1sOFEycERCM0xDa29YZlc2Njhra0p5RExyWjU5cEFLVnA1RUJ4NDJCS0ppeE1mcFBHUG5DOXI1cElvR25oQ1Mxam13VHhKQUhrWk5ZTHpiSjBobl8zUTlFTDl1SHpqRmxvcjJsTktyRmVRbzY4dEY4endRazYzV0U5N3ZsdzJYcndoTUVVUVcyOHFpeHBJOXU2Mjlidll4RW1vOFd6WXQxR1hFMTJBb2dJaUh4VGxUdjFYczTSAdsBQVVfeXFMT01ZX1VpbFBwS0JvYUNra29KTnY5RS1GbTlsNk50enktbDhRMnBEQjNMQ2tvWGZXNjY4a2tKeURMclo1OXBBS1ZwNUVCeDQyQktKaXhNZnBQR1BuQzlyNXBJb0duaENTMWptd1R4SkFIa1pOWUx6YkowaG5fM1E5RUw5dUh6akZsb3IybE5LckZlUW82OHRGOHp3UWs2M1dFOTd2bHcyWHJ3aE1FVVFXMjhxaXhwSTl1NjI5YnZZeEVtbzhXell0MUdYRTEyQW9nSWlIeFRsVHYxWHM0?oc=5"
- },
- {
-  "fecha": "2026-11-27",
-  "medio": "Infobae",
-  "titular": "Cuál es el precio de la gasolina este 27 de noviembre en Madrid, Barcelona y otras ciudades",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdtQU9ycl9nMFVLZVRMMldGeHBFbGZwYklsdUhzbDJ6VnFSWE9WTHNhU2Y0bGlDNEkyT2hhc0VpZWxFNExORE9zeEpuaWRVVmR3Rkd6YlhsLVZCVmN3NDlsRmFhZkItdURBcFQtWFM4eTZqOHI2MkFpMDdyQWRtNVp1NDMzVzNwVTJIeVlfNTJ0SWpyZGlJakJQblV3cXFSLWVRSU1JOWcxeWJ2UjlqMXcyOGdZd2dPaFZjVjRCdVBYU0ZKSkJTSHYxMzdjZ9IB6AFBVV95cUxOOE9Gbi16UzdYX3RNdnl1dUw3T3ZRNUM2am95ZktfQTQ1M1NMQU8wRGRYU19lendoekNrTjFuckk5dDk5VEYydzRNUldiSGdvT3BUc2RnQVJtcF9LT19sVkFaXzdBUWMtdGlxcG9wSnJRMmZpMVo4c3Y0YXUyU1R6TmRNYS1nbzMzNkc3enh5ejVPUUNGYVo3dnFNRjlCVURmQzdlMk1MQWYtQnhzZTY2RS1EN1hEZHVOOE5zbGFhZDJpMEpoUlBpaXF2dkdqQzFrdEhZYlg2TFVwNE5RNkFXYl92Qmg3ekZu?oc=5"
  }
 ]
